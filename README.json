@@ -1,0 +1,147 @@
+{
+  "items": [
+    {
+      "description": "Decoupling the Curve Modeling and Pavement Regression for Lane Detection\nRecursive Video Lane Detection github ICCV 2023\nLATR: 3D Lane Detection from Monocular Images with Transformer github ICCV 2023\nGroupLane: End-to-End 3D Lane Detection with Channel-wise Grouping\nAn Efficient Transformer for Simultaneous Learning of BEV and Lane Representations in 3D Lane Detection\nBEV-LaneDet: a Simple and Effective 3D Lane Detection Baseline github CVPR 2023\nAnchor3DLane: Learning to Regress 3D Anchors for Monocular 3D Lane Detection github CVPR 2023\nEnd to End Lane detection with One-to-Several Transformer github",
+      "items": [],
+      "title": "2023"
+    },
+    {
+      "description": "Repainting and Imitating Learning for Lane Detection\nWS-3D-Lane: Weakly Supervised 3D Lane Detection With 2D Lane Labels\nCurveFormer: 3D Lane Detection by Curve Propagation with Curve Queries and Attention\nPriorLane: A Prior Knowledge Enhanced Lane Detection Approach Based on Transformer github\nM^2-3DLaneNet: Multi-Modal 3D Lane Detection\nRCLane: Relay Chain Prediction for Lane Detection ECCV 2022\nPersFormer: 3D Lane Detection via Perspective Transformer and the OpenLane Benchmark github OpenLane Dataset ECCV 2022 Oral\nReconstruct from Top View: A 3D Lane Detection Approach based on Geometry Structure Prior\nMulti-level Domain Adaptation for Lane Detection\nUltra Fast Deep Lane Detection with Hybrid Anchor Driven Ordinal Classification github TPAMI 2022\nONCE-3DLanes: Building Monocular 3D Lane Detection Homepage github Dataset CVPR 2022\nA Keypoint-based Global Association Network for Lane Detection github CVPR 2022\nEigenlanes: Data-Driven Lane Descriptors for Structurally Diverse Lanes github SDLane Dataset CVPR 2022\nTowards Driving-Oriented Metric for Lane Detection Models Comma2k19 LD Dataset CVPR 2022\nCLRNet: Cross Layer Refinement Network for Lane Detection CVPR 2022\nRethinking Efficient Lane Detection via Curve Modeling github CVPR 2022\nLane detection with Position Embedding\nAtrousFormer：Lane Detection with Versatile AtrousFormer and Local Semantic Guidance\nLaneformer: Object-Aware Row-Column Transformers for Lane Detection AAAI 2022\nRONELDv2: A faster, improved lane tracking method",
+      "items": [],
+      "title": "2022"
+    },
+    {
+      "description": "SwiftLane: Towards Fast and Efficient Lane Detection ICMLA 2021\nA Hybrid Spatial-temporal Sequence-to-one Neural Network Model for Lane Detection\nYOLOP: You Only Look Once for Panoptic Driving Perception github\nVIL-100: A New Dataset and A Baseline Model for Video Instance Lane Detection github dataset ICCV 2021\nContinuityLearner: Geometric Continuity Feature Learning for Lane Segmentation\nOn Robustness of Lane Detection Models to Physical-World Adversarial Attacks in Autonomous Driving\nStructure Guided Lane Detection IJCAI 2021\nCondLaneNet: a Top-to-down Lane Detection Framework Based on Conditional Convolution\nKeep your Eyes on the Lane: Real-time Attention-guided Lane Detection github CVPR 2021\nYOLinO: Generic Single Shot Polyline Detection in Real Time\nLaneAF: Robust Multi-Lane Detection with Affinity Fields github\nRobust Lane Detection via Expanded Self Attention\nEnd-to-End Deep Learning of Lane Detection and Path Prediction for Real-Time Autonomous Driving",
+      "items": [],
+      "title": "2021"
+    },
+    {
+      "description": "End-to-end Lane Shape Prediction with Transformers github WACV 2021\n3D-LaneNet+: Anchor Free Lane Detection using a Semi-Local Representation\nKeep your Eyes on the Lane: Attention-guided Lane Detection github\nRONELD: Robust Neural Network Output Enhancement for Active Lane Detection github ICPR 2020\nRESA: Recurrent Feature-Shift Aggregator for Lane Detection github AAAI 2021\nCurveLane-NAS: Unifying Lane-Sensitive Architecture Search and Adaptive Point Blending ECCV 2020 Datasets\nTowards Lightweight Lane Detection by Optimizing Spatial Embedding ECCV 2020 Workshop\nStructure-Aware Network for Lane Marker Extraction with Dynamic Vision Sensor\nLane Detection Model Based on Spatio-Temporal Network with Double ConvGRUs\nHeatmap-based Vanishing Point boosts Lane Detection\nSynthetic-to-Real Domain Adaptation for Lane Detection\nE2E-LMD: End-to-End Lane Marker Detection via Row-wise Classification\nSUPER: A Novel Lane Detection System\nUltra Fast Structure-aware Deep Lane Detection github ECCV 2020\nPolyLaneNet: Lane Estimation via Deep Polynomial Regression github\nInter-Region Affinity Distillation for Road Marking Segmentation github CVPR 2020\nGen-LaneNet: A Generalized and Scalable Approach for 3D Lane Detection github Datasets ECCV 2020\nDetecting Lane and Road Markings at A Distance with Perspective Transformer Layers\nSemi-Local 3D Lane Detection and Uncertainty Estimation\nFusionLane: Multi-Sensor Fusion for Lane Marking Semantic Segmentation Using Deep Neural Networks github\nPINet：Key Points Estimation and Point Instance Segmentation Approach for Lane Detection github\nBetter-CycleGAN + ERFNet: Lane Detection in Low-light Conditions Using an Efficient Data Enhancement : Light Conditions Style Transfer submitted to IV 2020\nMulti-lane Detection Using Instance Segmentation and Attentive Voting ICCAS 2019",
+      "items": [],
+      "title": "2020"
+    },
+    {
+      "description": "Dynamic Approach for Lane Detection using Google Street View and CNN IEEE TENCON 2019\nLearning Lightweight Lane Detection CNNs by Self Attention Distillation github ICCV 2019\nMulti-Class Lane Semantic Segmentation using Efficient Convolutional Networks MMSP 2019\nLane Detection and Classification using Cascaded CNNs Eurocast 2019\nDriver Behavior Analysis Using Lane Departure Detection Under Challenging Conditions\nFastDraw: Addressing the Long Tail of Lane Detection by Adapting a Sequential Prediction Network CVPR 2019\nAgnostic Lane Detection github\nDeep Multi-Sensor Lane Detection IROS2018\nEnhanced free space detection in multiple lanes based on single CNN with scene identification IV2019 github\nRobust Lane Detection from Continuous Driving Scenes Using Deep Neural Networks\nEnd-to-end Lane Detection through Differentiable Least-Squares Fitting github",
+      "items": [],
+      "title": "2019"
+    },
+    {
+      "description": "End to End Video Segmentation for Driving : Lane Detection For Autonomous Car\n3D-LaneNet: end-to-end 3D multiple lane detection ICCV 2019\nEfficient Road Lane Marking Detection with Deep Learning DSP 2018\nMultiple Lane Detection Algorithm Based on Optimised Dense Disparity Map Estimation IST 2018\nLineNet: a Zoomable CNN for Crowdsourced High Definition Maps Modeling in Urban Environments\nReal-time stereo vision-based lane detection system\nLaneNet: Real-Time Lane Detection Networks for Autonomous Driving\nEL-GAN: Embedding Loss Driven Generative Adversarial Networks for Lane Detection\nReal-time Lane Marker Detection Using Template Matching with RGB-D Camera\nTowards End-to-End Lane Detection: an Instance Segmentation Approach 论文解读 github\nLane Detection and Classification for Forward Collision Warning System Based on Stereo Vision\nAdvances in Vision-Based Lane Detection: Algorithms, Integration, Assessment, and Perspectives on ACP-Based Parallel Vision\n(SCNN)Spatial As Deep: Spatial CNN for Traffic Scene Understanding AAAI 2018 CSDN Translator\nLane Detection Based on Inverse Perspective Transformation and Kalman Filter\nA review of recent advances in lane detection and departure warning system\nDeep Learning Lane Marker Segmentation From Automatically Generated Labels Youtube\nVPGNet: Vanishing Point Guided Network for Lane and Road Marking Detection and Recognition ICCV 2017 github\nhttps://github.com/voldemortX/pytorch-auto-drive\nLane Detection（Paper with Code）\nhttps://github.com/cardwing/Codes-for-Lane-Detection\nhttps://github.com/karstenBehrendt/unsupervised_llamas\nhttps://github.com/wvangansbeke/LaneDetection_End2End\nhttps://github.com/georgesung/advanced_lane_detection\nhttps://github.com/MaybeShewill-CV/lanenet-lane-detection\nhttps://github.com/XingangPan/SCNN\nhttps://github.com/davidawad/Lane-Detection\nhttps://github.com/yang1688899/CarND-Advanced-Lane-Lines\nhttps://github.com/SeokjuLee/VPGNet\nhttps://github.com/mvirgo/MLND-Capstone：Lane Detection with Deep Learning\nhttps://github.com/galenballew/SDC-Lane-and-Vehicle-Detection-Tracking\nhttps://github.com/shawshany/Advance_LaneFinding\nLane Detection with Deep Learning (Part 1)\nSimple Lane Detection with OpenCV\nFinding Lane Lines — Simple Pipeline For Lane Detection\nBuilding a lane detection system using Python 3 and OpenCV\nTutorial: Build a lane detector\nOnline course: Algorithms for Automated Driving",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TuSimple",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-05-28T18:08:53Z",
+            "owner": "TuSimple",
+            "repo": "tusimple-benchmark",
+            "stars": 595
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VPGNet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-04-14T07:43:18Z",
+            "owner": "SeokjuLee",
+            "repo": "VPGNet",
+            "stars": 504
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "3D Lane Synthetic Dataset",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-13T17:46:08Z",
+            "owner": "yuliangguo",
+            "repo": "3D_Lane_Synthetic_Dataset",
+            "stars": 147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VIL-100",
+          "description": "ICCV 2021",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2024-02-01T21:04:57Z",
+            "owner": "yujun0-0",
+            "repo": "MMA-Net",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenLane-V",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-08T00:52:41Z",
+            "owner": "dongkwonjin",
+            "repo": "RVLD",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jiqing Expressway",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-12-19T05:58:27Z",
+            "owner": "vonsj0210",
+            "repo": "Multi-Lane-Detection-Dataset-with-Ground-Truth",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenLane: 3D lane datasets",
+          "description": "ECCV 2022 Oral",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-02-07T09:41:19Z",
+            "owner": "OpenPerceptionX",
+            "repo": "OpenLane",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CurveLanes",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "2018"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T23:26:31.552Z",
+    "original_repository": "amusi/awesome-lane-detection",
+    "original_repository_sha": "be2cb2d46a554e800f4e28f6b3ce7b22d0def28d",
+    "enhanced_repository": "enhansome/enhansome-lane-detection",
+    "enhanced_repository_description": null,
+    "title": "awesome-lane-detection with stars"
+  }
+}
