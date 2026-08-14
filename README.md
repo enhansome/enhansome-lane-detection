@@ -60,11 +60,11 @@ Lane Detection
 
 [Multi-level Domain Adaptation for Lane Detection](https://arxiv.org/abs/2206.10692)
 
-[Ultra Fast Deep Lane Detection with Hybrid Anchor Driven Ordinal Classification](https://arxiv.org/abs/2206.07389)  [github](https://github.com/cfzd/Ultra-Fast-Lane-Detection-v2) ⭐ 846 | 🐛 152 | 🌐 Python | 📅 2024-04-15  TPAMI 2022
+[Ultra Fast Deep Lane Detection with Hybrid Anchor Driven Ordinal Classification](https://arxiv.org/abs/2206.07389)  [github](https://github.com/cfzd/Ultra-Fast-Lane-Detection-v2) ⭐ 847 | 🐛 152 | 🌐 Python | 📅 2024-04-15  TPAMI 2022
 
 [ONCE-3DLanes: Building Monocular 3D Lane Detection](https://arxiv.org/abs/2205.00301)  [Homepage](https://once-3dlanes.github.io/)  [github](https://github.com/once-3dlanes/once_3dlanes_benchmark) ⭐ 113 | 🐛 12 | 🌐 Python | 📅 2022-06-07  [Dataset](https://once-3dlanes.github.io/3dlanes/)  CVPR 2022
 
-[A Keypoint-based Global Association Network for Lane Detection](https://arxiv.org/abs/2204.07335)  [github](https://github.com/Wolfwjs/GANet) ⭐ 264 | 🐛 21 | 🌐 C++ | 📅 2023-05-19  CVPR 2022
+[A Keypoint-based Global Association Network for Lane Detection](https://arxiv.org/abs/2204.07335)  [github](https://github.com/Wolfwjs/GANet) ⭐ 265 | 🐛 21 | 🌐 C++ | 📅 2023-05-19  CVPR 2022
 
 [Eigenlanes: Data-Driven Lane Descriptors for Structurally Diverse Lanes](https://arxiv.org/abs/2203.15302)  [github](https://github.com/dongkwonjin/Eigenlanes) ⭐ 134 | 🐛 1 | 🌐 Python | 📅 2022-07-21   [SDLane  Dataset](https://www.42dot.ai/akit/dataset/)  CVPR 2022
 
@@ -72,7 +72,7 @@ Lane Detection
 
 [CLRNet: Cross Layer Refinement Network for Lane Detection](https://arxiv.org/abs/2203.10350)  CVPR 2022
 
-[Rethinking Efficient Lane Detection via Curve Modeling](https://arxiv.org/abs/2203.02431)  [github](https://github.com/voldemortX/pytorch-auto-drive) ⭐ 953 | 🐛 46 | 🌐 Python | 📅 2023-10-04  CVPR 2022
+[Rethinking Efficient Lane Detection via Curve Modeling](https://arxiv.org/abs/2203.02431)  [github](https://github.com/voldemortX/pytorch-auto-drive) ⭐ 952 | 🐛 46 | 🌐 Python | 📅 2023-10-04  CVPR 2022
 
 [Lane detection with Position Embedding](https://arxiv.org/abs/2203.12301)
 
@@ -138,7 +138,7 @@ Lane Detection
 
 [SUPER: A Novel Lane Detection System](https://arxiv.org/abs/2005.07277)
 
-[Ultra Fast Structure-aware Deep Lane Detection](https://arxiv.org/abs/2004.11757)  [github](https://github.com/cfzd/Ultra-Fast-Lane-Detection) ⭐ 2,048 | 🐛 97 | 🌐 Python | 📅 2022-12-14  ECCV 2020
+[Ultra Fast Structure-aware Deep Lane Detection](https://arxiv.org/abs/2004.11757)  [github](https://github.com/cfzd/Ultra-Fast-Lane-Detection) ⭐ 2,047 | 🐛 97 | 🌐 Python | 📅 2022-12-14  ECCV 2020
 
 [PolyLaneNet: Lane Estimation via Deep Polynomial Regression](https://github.com/lucastabelini/PolyLaneNet) ⭐ 315 | 🐛 2 | 🌐 Python | 📅 2021-05-31  [github](https://github.com/lucastabelini/PolyLaneNet) ⭐ 315 | 🐛 2 | 🌐 Python | 📅 2021-05-31
 
@@ -222,7 +222,7 @@ Lane Detection
 
 # Code
 
-<https://github.com/voldemortX/pytorch-auto-drive> ⭐ 953 | 🐛 46 | 🌐 Python | 📅 2023-10-04
+<https://github.com/voldemortX/pytorch-auto-drive> ⭐ 952 | 🐛 46 | 🌐 Python | 📅 2023-10-04
 
 [Lane Detection（Paper with Code）](https://paperswithcode.com/task/lane-detection)
 
@@ -294,4 +294,4 @@ If you have any suggestions about papers, feel free to mail me :)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
