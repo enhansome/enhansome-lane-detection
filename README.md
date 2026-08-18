@@ -26,7 +26,7 @@ Lane Detection
 
 [Decoupling the Curve Modeling and Pavement Regression for Lane Detection](https://arxiv.org/abs/2309.10533)
 
-[Recursive Video Lane Detection](https://arxiv.org/abs/2308.11106)  [github](https://github.com/dongkwonjin/RVLD) ⭐ 90 | 🐛 17 | 🌐 Python | 📅 2023-11-08  ICCV 2023
+[Recursive Video Lane Detection](https://arxiv.org/abs/2308.11106)  [github](https://github.com/dongkwonjin/RVLD) ⭐ 91 | 🐛 17 | 🌐 Python | 📅 2023-11-08  ICCV 2023
 
 [LATR: 3D Lane Detection from Monocular Images with Transformer](https://arxiv.org/abs/2308.04583)  [github](https://github.com/JMoonr/LATR) ⭐ 245 | 🐛 18 | 🌐 Python | 📅 2024-12-08  ICCV 2023
 
@@ -270,7 +270,7 @@ Lane Detection
 * [VPGNet](https://github.com/SeokjuLee/VPGNet#vpgnet-dataset) ⭐ 504 | 🐛 35 | 🌐 Jupyter Notebook | 📅 2020-04-14
 * [3D Lane Synthetic Dataset](https://github.com/yuliangguo/3D_Lane_Synthetic_Dataset) ⭐ 147 | 🐛 10 | 🌐 Python | 📅 2026-03-13
 * [VIL-100](https://github.com/yujun0-0/MMA-Net) ⭐ 104 | 🐛 2 | 🌐 Makefile | 📅 2024-02-01  ICCV 2021
-* [OpenLane-V](https://github.com/dongkwonjin/RVLD) ⭐ 90 | 🐛 17 | 🌐 Python | 📅 2023-11-08
+* [OpenLane-V](https://github.com/dongkwonjin/RVLD) ⭐ 91 | 🐛 17 | 🌐 Python | 📅 2023-11-08
 * [Jiqing Expressway](https://github.com/vonsj0210/Multi-Lane-Detection-Dataset-with-Ground-Truth) ⭐ 49 | 🐛 5 | 📅 2019-12-19
 * [OpenLane: 3D lane datasets](https://github.com/OpenPerceptionX/OpenLane) ⭐ 13 | 🐛 0 | 📅 2023-02-07  ECCV 2022 Oral
 * [CULane](https://xingangpan.github.io/projects/CULane.html)
@@ -290,8 +290,8 @@ Lane Detection
 If you have any suggestions about papers, feel free to mail me :)
 
 * [blog](http://www.cverblog.cn/)
-* [pull](https://github.com/amusi/awesome-lane-detection/pulls) ⭐ 3,063 | 🐛 18 | 📅 2024-08-16
+* [pull](https://github.com/amusi/awesome-lane-detection/pulls) ⭐ 3,062 | 🐛 18 | 📅 2024-08-16
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
