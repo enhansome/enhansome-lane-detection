@@ -202,7 +202,7 @@ Lane Detection
 
 [Real-time Lane Marker Detection Using Template Matching with RGB-D Camera](https://arxiv.org/abs/1806.01621)
 
-[Towards End-to-End Lane Detection: an Instance Segmentation Approach](https://arxiv.org/abs/1802.05591)    [论文解读](https://mp.weixin.qq.com/s/sGbSiCHpKjqKe9FP1ykjGw)  [github](https://github.com/MaybeShewill-CV/lanenet-lane-detection) ⭐ 2,561 | 🐛 4 | 🌐 Python | 📅 2023-12-08
+[Towards End-to-End Lane Detection: an Instance Segmentation Approach](https://arxiv.org/abs/1802.05591)    [论文解读](https://mp.weixin.qq.com/s/sGbSiCHpKjqKe9FP1ykjGw)  [github](https://github.com/MaybeShewill-CV/lanenet-lane-detection) ⭐ 2,562 | 🐛 4 | 🌐 Python | 📅 2023-12-08
 
 [Lane Detection and Classification for Forward Collision Warning System Based on Stereo Vision](https://ieeexplore.ieee.org/document/8353455/)
 
@@ -234,7 +234,7 @@ Lane Detection
 
 <https://github.com/georgesung/advanced_lane_detection> ⭐ 559 | 🐛 14 | 🌐 Python | 📅 2020-12-12
 
-<https://github.com/MaybeShewill-CV/lanenet-lane-detection> ⭐ 2,561 | 🐛 4 | 🌐 Python | 📅 2023-12-08
+<https://github.com/MaybeShewill-CV/lanenet-lane-detection> ⭐ 2,562 | 🐛 4 | 🌐 Python | 📅 2023-12-08
 
 <https://github.com/XingangPan/SCNN> ⭐ 863 | 🐛 72 | 🌐 Lua | 📅 2026-01-16
 
@@ -294,4 +294,4 @@ If you have any suggestions about papers, feel free to mail me :)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
