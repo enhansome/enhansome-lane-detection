@@ -104,7 +104,7 @@ Lane Detection
 
 [YOLinO: Generic Single Shot Polyline Detection in Real Time](https://arxiv.org/abs/2103.14420)
 
-[LaneAF: Robust Multi-Lane Detection with Affinity Fields](https://arxiv.org/abs/2103.12040)  [github](https://github.com/sel118/LaneAF) ⭐ 197 | 🐛 14 | 🌐 Python | 📅 2021-07-08
+[LaneAF: Robust Multi-Lane Detection with Affinity Fields](https://arxiv.org/abs/2103.12040)  [github](https://github.com/sel118/LaneAF) ⭐ 198 | 🐛 14 | 🌐 Python | 📅 2021-07-08
 
 [Robust Lane Detection via Expanded Self Attention](https://arxiv.org/abs/2102.07037)
 
@@ -294,4 +294,4 @@ If you have any suggestions about papers, feel free to mail me :)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
