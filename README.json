@@ -503,7 +503,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/voldemortX/pytorch-auto-drive",
+          "title": "voldemortX/pytorch-auto-drive",
           "description": null,
           "children": [],
           "repo_info": {
@@ -518,7 +518,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/cardwing/Codes-for-Lane-Detection",
+          "title": "cardwing/Codes-for-Lane-Detection",
           "description": null,
           "children": [],
           "repo_info": {
@@ -533,7 +533,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/karstenBehrendt/unsupervised_llamas",
+          "title": "karstenBehrendt/unsupervised_llamas",
           "description": null,
           "children": [],
           "repo_info": {
@@ -548,7 +548,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/wvangansbeke/LaneDetection_End2End",
+          "title": "wvangansbeke/LaneDetection_End2End",
           "description": null,
           "children": [],
           "repo_info": {
@@ -563,7 +563,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/georgesung/advanced_lane_detection",
+          "title": "georgesung/advanced_lane_detection",
           "description": null,
           "children": [],
           "repo_info": {
@@ -578,7 +578,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/MaybeShewill-CV/lanenet-lane-detection",
+          "title": "MaybeShewill-CV/lanenet-lane-detection",
           "description": null,
           "children": [],
           "repo_info": {
@@ -593,7 +593,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/XingangPan/SCNN",
+          "title": "XingangPan/SCNN",
           "description": null,
           "children": [],
           "repo_info": {
@@ -608,7 +608,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/davidawad/Lane-Detection",
+          "title": "davidawad/Lane-Detection",
           "description": null,
           "children": [],
           "repo_info": {
@@ -623,7 +623,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/yang1688899/CarND-Advanced-Lane-Lines",
+          "title": "yang1688899/CarND-Advanced-Lane-Lines",
           "description": null,
           "children": [],
           "repo_info": {
@@ -638,7 +638,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/SeokjuLee/VPGNet",
+          "title": "SeokjuLee/VPGNet",
           "description": null,
           "children": [],
           "repo_info": {
@@ -653,7 +653,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/mvirgo/MLND-Capstone",
+          "title": "mvirgo/MLND-Capstone",
           "description": "：Lane Detection with Deep Learning",
           "children": [],
           "repo_info": {
@@ -668,7 +668,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/galenballew/SDC-Lane-and-Vehicle-Detection-Tracking",
+          "title": "galenballew/SDC-Lane-and-Vehicle-Detection-Tracking",
           "description": null,
           "children": [],
           "repo_info": {
@@ -683,7 +683,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/shawshany/Advance_LaneFinding",
+          "title": "shawshany/Advance_LaneFinding",
           "description": null,
           "children": [],
           "repo_info": {
@@ -812,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T23:10:04.890Z",
+    "last_updated": "2026-08-25T05:52:36.195Z",
     "original_repository": "amusi/awesome-lane-detection",
     "original_repository_id": 163154136,
     "original_repository_sha": "be2cb2d46a554e800f4e28f6b3ce7b22d0def28d",
