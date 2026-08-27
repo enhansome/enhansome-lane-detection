@@ -114,7 +114,7 @@
                 "last_commit": "2024-04-15T08:46:43Z",
                 "owner": "cfzd",
                 "repo": "Ultra-Fast-Lane-Detection-v2",
-                "stars": 847
+                "stars": 849
               }
             },
             {
@@ -196,7 +196,7 @@
                 "last_commit": "2023-10-20T16:50:37Z",
                 "owner": "hustvl",
                 "repo": "YOLOP",
-                "stars": 2233
+                "stars": 2234
               }
             },
             {
@@ -241,7 +241,7 @@
                 "last_commit": "2021-07-08T01:11:00Z",
                 "owner": "sel118",
                 "repo": "LaneAF",
-                "stars": 198
+                "stars": 197
               }
             }
           ],
@@ -812,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T23:11:59.484Z",
+    "last_updated": "2026-08-27T04:05:20.285Z",
     "original_repository": "amusi/awesome-lane-detection",
     "original_repository_id": 163154136,
     "original_repository_sha": "be2cb2d46a554e800f4e28f6b3ce7b22d0def28d",
