@@ -18,7 +18,8 @@
                 "owner": "dongkwonjin",
                 "repo": "RVLD",
                 "stars": 91
-              }
+              },
+              "first_seen": "2026-08-28T06:23:03.287Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "JMoonr",
                 "repo": "LATR",
                 "stars": 245
-              }
+              },
+              "first_seen": "2026-08-28T06:23:03.287Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "gigo-team",
                 "repo": "bev_lane_det",
                 "stars": 235
-              }
+              },
+              "first_seen": "2026-08-28T06:23:03.287Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "tusen-ai",
                 "repo": "Anchor3DLane",
                 "stars": 191
-              }
+              },
+              "first_seen": "2026-08-28T06:23:03.287Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "zkyseu",
                 "repo": "O2SFormer",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T06:23:03.287Z"
             }
           ],
           "description": "Decoupling the Curve Modeling and Pavement Regression for Lane Detection\nGroupLane: End-to-End 3D Lane Detection with Channel-wise Grouping\nAn Efficient Transformer for Simultaneous Learning of BEV and Lane Representations in 3D Lane Detection",
@@ -100,7 +105,8 @@
                 "owner": "vincentqqb",
                 "repo": "PriorLane",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T06:23:03.287Z"
             },
             {
               "node_type": "item",
@@ -115,7 +121,8 @@
                 "owner": "cfzd",
                 "repo": "Ultra-Fast-Lane-Detection-v2",
                 "stars": 850
-              }
+              },
+              "first_seen": "2026-08-28T06:23:03.287Z"
             },
             {
               "node_type": "item",
@@ -130,7 +137,8 @@
                 "owner": "once-3dlanes",
                 "repo": "once_3dlanes_benchmark",
                 "stars": 113
-              }
+              },
+              "first_seen": "2026-08-28T06:23:03.287Z"
             },
             {
               "node_type": "item",
@@ -145,7 +153,8 @@
                 "owner": "Wolfwjs",
                 "repo": "GANet",
                 "stars": 265
-              }
+              },
+              "first_seen": "2026-08-28T06:23:03.287Z"
             },
             {
               "node_type": "item",
@@ -160,7 +169,8 @@
                 "owner": "dongkwonjin",
                 "repo": "Eigenlanes",
                 "stars": 134
-              }
+              },
+              "first_seen": "2026-08-28T06:23:03.287Z"
             },
             {
               "node_type": "item",
@@ -175,7 +185,8 @@
                 "owner": "voldemortX",
                 "repo": "pytorch-auto-drive",
                 "stars": 952
-              }
+              },
+              "first_seen": "2026-08-28T06:23:03.287Z"
             }
           ],
           "description": "Repainting and Imitating Learning for Lane Detection\nWS-3D-Lane: Weakly Supervised 3D Lane Detection With 2D Lane Labels\nCurveFormer: 3D Lane Detection by Curve Propagation with Curve Queries and Attention\nM^2-3DLaneNet: Multi-Modal 3D Lane Detection\nRCLane: Relay Chain Prediction for Lane Detection ECCV 2022\nPersFormer: 3D Lane Detection via Perspective Transformer and the OpenLane Benchmark github OpenLane Dataset ECCV 2022 Oral\nReconstruct from Top View: A 3D Lane Detection Approach based on Geometry Structure Prior\nMulti-level Domain Adaptation for Lane Detection\nTowards Driving-Oriented Metric for Lane Detection Models Comma2k19 LD Dataset CVPR 2022\nCLRNet: Cross Layer Refinement Network for Lane Detection CVPR 2022\nLane detection with Position Embedding\nAtrousFormer：Lane Detection with Versatile AtrousFormer and Local Semantic Guidance\nLaneformer: Object-Aware Row-Column Transformers for Lane Detection AAAI 2022\nRONELDv2: A faster, improved lane tracking method",
@@ -196,8 +207,9 @@
                 "last_commit": "2023-10-20T16:50:37Z",
                 "owner": "hustvl",
                 "repo": "YOLOP",
-                "stars": 2235
-              }
+                "stars": 2237
+              },
+              "first_seen": "2026-08-28T06:23:03.287Z"
             },
             {
               "node_type": "item",
@@ -212,7 +224,8 @@
                 "owner": "yujun0-0",
                 "repo": "MMA-Net",
                 "stars": 104
-              }
+              },
+              "first_seen": "2026-08-28T06:23:03.287Z"
             },
             {
               "node_type": "item",
@@ -227,7 +240,8 @@
                 "owner": "lucastabelini",
                 "repo": "LaneATT",
                 "stars": 695
-              }
+              },
+              "first_seen": "2026-08-28T06:23:03.287Z"
             },
             {
               "node_type": "item",
@@ -242,7 +256,8 @@
                 "owner": "sel118",
                 "repo": "LaneAF",
                 "stars": 197
-              }
+              },
+              "first_seen": "2026-08-28T06:23:03.287Z"
             }
           ],
           "description": "SwiftLane: Towards Fast and Efficient Lane Detection ICMLA 2021\nA Hybrid Spatial-temporal Sequence-to-one Neural Network Model for Lane Detection\nContinuityLearner: Geometric Continuity Feature Learning for Lane Segmentation\nOn Robustness of Lane Detection Models to Physical-World Adversarial Attacks in Autonomous Driving\nStructure Guided Lane Detection IJCAI 2021\nCondLaneNet: a Top-to-down Lane Detection Framework Based on Conditional Convolution\nYOLinO: Generic Single Shot Polyline Detection in Real Time\nRobust Lane Detection via Expanded Self Attention\nEnd-to-End Deep Learning of Lane Detection and Path Prediction for Real-Time Autonomous Driving",
@@ -264,7 +279,8 @@
                 "owner": "liuruijin17",
                 "repo": "LSTR",
                 "stars": 662
-              }
+              },
+              "first_seen": "2026-08-28T06:23:03.287Z"
             },
             {
               "node_type": "item",
@@ -279,7 +295,8 @@
                 "owner": "lucastabelini",
                 "repo": "LaneATT",
                 "stars": 695
-              }
+              },
+              "first_seen": "2026-08-28T06:23:03.287Z"
             },
             {
               "node_type": "item",
@@ -294,7 +311,8 @@
                 "owner": "czming",
                 "repo": "RONELD-Lane-Detection",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T06:23:03.287Z"
             },
             {
               "node_type": "item",
@@ -309,7 +327,8 @@
                 "owner": "ZJULearning",
                 "repo": "resa",
                 "stars": 187
-              }
+              },
+              "first_seen": "2026-08-28T06:23:03.287Z"
             },
             {
               "node_type": "item",
@@ -323,8 +342,9 @@
                 "last_commit": "2022-12-14T06:50:09Z",
                 "owner": "cfzd",
                 "repo": "Ultra-Fast-Lane-Detection",
-                "stars": 2048
-              }
+                "stars": 2049
+              },
+              "first_seen": "2026-08-28T06:23:03.287Z"
             },
             {
               "node_type": "item",
@@ -339,7 +359,8 @@
                 "owner": "lucastabelini",
                 "repo": "PolyLaneNet",
                 "stars": 315
-              }
+              },
+              "first_seen": "2026-08-28T06:23:03.287Z"
             },
             {
               "node_type": "item",
@@ -354,7 +375,8 @@
                 "owner": "cardwing",
                 "repo": "Codes-for-IntRA-KD",
                 "stars": 117
-              }
+              },
+              "first_seen": "2026-08-28T06:23:03.287Z"
             },
             {
               "node_type": "item",
@@ -369,7 +391,8 @@
                 "owner": "yuliangguo",
                 "repo": "Pytorch_Generalized_3D_Lane_Detection",
                 "stars": 330
-              }
+              },
+              "first_seen": "2026-08-28T06:23:03.287Z"
             },
             {
               "node_type": "item",
@@ -384,7 +407,8 @@
                 "owner": "rolandying",
                 "repo": "FusionLane",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T06:23:03.287Z"
             },
             {
               "node_type": "item",
@@ -399,7 +423,8 @@
                 "owner": "koyeongmin",
                 "repo": "PINet",
                 "stars": 211
-              }
+              },
+              "first_seen": "2026-08-28T06:23:03.287Z"
             }
           ],
           "description": "3D-LaneNet+: Anchor Free Lane Detection using a Semi-Local Representation\nCurveLane-NAS: Unifying Lane-Sensitive Architecture Search and Adaptive Point Blending ECCV 2020 Datasets\nTowards Lightweight Lane Detection by Optimizing Spatial Embedding ECCV 2020 Workshop\nStructure-Aware Network for Lane Marker Extraction with Dynamic Vision Sensor\nLane Detection Model Based on Spatio-Temporal Network with Double ConvGRUs\nHeatmap-based Vanishing Point boosts Lane Detection\nSynthetic-to-Real Domain Adaptation for Lane Detection\nE2E-LMD: End-to-End Lane Marker Detection via Row-wise Classification\nSUPER: A Novel Lane Detection System\nDetecting Lane and Road Markings at A Distance with Perspective Transformer Layers\nSemi-Local 3D Lane Detection and Uncertainty Estimation\nBetter-CycleGAN + ERFNet: Lane Detection in Low-light Conditions Using an Efficient Data Enhancement : Light Conditions Style Transfer submitted to IV 2020\nMulti-lane Detection Using Instance Segmentation and Attentive Voting ICCAS 2019",
@@ -421,7 +446,8 @@
                 "owner": "cardwing",
                 "repo": "Codes-for-Lane-Detection",
                 "stars": 1075
-              }
+              },
+              "first_seen": "2026-08-28T06:23:03.287Z"
             },
             {
               "node_type": "item",
@@ -436,7 +462,8 @@
                 "owner": "cardwing",
                 "repo": "Codes-for-Lane-Detection",
                 "stars": 1075
-              }
+              },
+              "first_seen": "2026-08-28T06:23:03.287Z"
             },
             {
               "node_type": "item",
@@ -451,7 +478,8 @@
                 "owner": "fabvio",
                 "repo": "ld-lsi",
                 "stars": 88
-              }
+              },
+              "first_seen": "2026-08-28T06:23:03.287Z"
             },
             {
               "node_type": "item",
@@ -466,7 +494,8 @@
                 "owner": "wvangansbeke",
                 "repo": "LaneDetection_End2End",
                 "stars": 664
-              }
+              },
+              "first_seen": "2026-08-28T06:23:03.287Z"
             }
           ],
           "description": "Dynamic Approach for Lane Detection using Google Street View and CNN IEEE TENCON 2019\nMulti-Class Lane Semantic Segmentation using Efficient Convolutional Networks MMSP 2019\nLane Detection and Classification using Cascaded CNNs Eurocast 2019\nDriver Behavior Analysis Using Lane Departure Detection Under Challenging Conditions\nFastDraw: Addressing the Long Tail of Lane Detection by Adapting a Sequential Prediction Network CVPR 2019\nDeep Multi-Sensor Lane Detection IROS2018\nRobust Lane Detection from Continuous Driving Scenes Using Deep Neural Networks",
@@ -488,7 +517,8 @@
                 "owner": "MaybeShewill-CV",
                 "repo": "lanenet-lane-detection",
                 "stars": 2562
-              }
+              },
+              "first_seen": "2026-08-28T06:23:03.287Z"
             }
           ],
           "description": "End to End Video Segmentation for Driving : Lane Detection For Autonomous Car\n3D-LaneNet: end-to-end 3D multiple lane detection ICCV 2019\nEfficient Road Lane Marking Detection with Deep Learning DSP 2018\nMultiple Lane Detection Algorithm Based on Optimised Dense Disparity Map Estimation IST 2018\nLineNet: a Zoomable CNN for Crowdsourced High Definition Maps Modeling in Urban Environments\nReal-time stereo vision-based lane detection system\nLaneNet: Real-Time Lane Detection Networks for Autonomous Driving\nEL-GAN: Embedding Loss Driven Generative Adversarial Networks for Lane Detection\nReal-time Lane Marker Detection Using Template Matching with RGB-D Camera\nLane Detection and Classification for Forward Collision Warning System Based on Stereo Vision\nAdvances in Vision-Based Lane Detection: Algorithms, Integration, Assessment, and Perspectives on ACP-Based Parallel Vision\n(SCNN)Spatial As Deep: Spatial CNN for Traffic Scene Understanding AAAI 2018 CSDN Translator\nLane Detection Based on Inverse Perspective Transformation and Kalman Filter",
@@ -514,7 +544,8 @@
             "owner": "voldemortX",
             "repo": "pytorch-auto-drive",
             "stars": 952
-          }
+          },
+          "first_seen": "2026-08-28T06:23:03.287Z"
         },
         {
           "node_type": "item",
@@ -529,7 +560,8 @@
             "owner": "cardwing",
             "repo": "Codes-for-Lane-Detection",
             "stars": 1075
-          }
+          },
+          "first_seen": "2026-08-28T06:23:03.287Z"
         },
         {
           "node_type": "item",
@@ -544,7 +576,8 @@
             "owner": "karstenBehrendt",
             "repo": "unsupervised_llamas",
             "stars": 108
-          }
+          },
+          "first_seen": "2026-08-28T06:23:03.287Z"
         },
         {
           "node_type": "item",
@@ -559,7 +592,8 @@
             "owner": "wvangansbeke",
             "repo": "LaneDetection_End2End",
             "stars": 664
-          }
+          },
+          "first_seen": "2026-08-28T06:23:03.287Z"
         },
         {
           "node_type": "item",
@@ -574,7 +608,8 @@
             "owner": "georgesung",
             "repo": "advanced_lane_detection",
             "stars": 559
-          }
+          },
+          "first_seen": "2026-08-28T06:23:03.287Z"
         },
         {
           "node_type": "item",
@@ -589,7 +624,8 @@
             "owner": "MaybeShewill-CV",
             "repo": "lanenet-lane-detection",
             "stars": 2562
-          }
+          },
+          "first_seen": "2026-08-28T06:23:03.287Z"
         },
         {
           "node_type": "item",
@@ -604,7 +640,8 @@
             "owner": "XingangPan",
             "repo": "SCNN",
             "stars": 863
-          }
+          },
+          "first_seen": "2026-08-28T06:23:03.287Z"
         },
         {
           "node_type": "item",
@@ -619,7 +656,8 @@
             "owner": "davidawad",
             "repo": "Lane-Detection",
             "stars": 78
-          }
+          },
+          "first_seen": "2026-08-28T06:23:03.287Z"
         },
         {
           "node_type": "item",
@@ -634,7 +672,8 @@
             "owner": "yang1688899",
             "repo": "CarND-Advanced-Lane-Lines",
             "stars": 346
-          }
+          },
+          "first_seen": "2026-08-28T06:23:03.287Z"
         },
         {
           "node_type": "item",
@@ -649,7 +688,8 @@
             "owner": "SeokjuLee",
             "repo": "VPGNet",
             "stars": 503
-          }
+          },
+          "first_seen": "2026-08-28T06:23:03.287Z"
         },
         {
           "node_type": "item",
@@ -664,7 +704,8 @@
             "owner": "mvirgo",
             "repo": "MLND-Capstone",
             "stars": 440
-          }
+          },
+          "first_seen": "2026-08-28T06:23:03.287Z"
         },
         {
           "node_type": "item",
@@ -679,7 +720,8 @@
             "owner": "galenballew",
             "repo": "SDC-Lane-and-Vehicle-Detection-Tracking",
             "stars": 247
-          }
+          },
+          "first_seen": "2026-08-28T06:23:03.287Z"
         },
         {
           "node_type": "item",
@@ -694,7 +736,8 @@
             "owner": "shawshany",
             "repo": "Advance_LaneFinding",
             "stars": 94
-          }
+          },
+          "first_seen": "2026-08-28T06:23:03.287Z"
         }
       ],
       "title": "Code"
@@ -715,7 +758,8 @@
             "owner": "TuSimple",
             "repo": "tusimple-benchmark",
             "stars": 595
-          }
+          },
+          "first_seen": "2026-08-28T06:23:03.287Z"
         },
         {
           "node_type": "item",
@@ -730,7 +774,8 @@
             "owner": "SeokjuLee",
             "repo": "VPGNet",
             "stars": 503
-          }
+          },
+          "first_seen": "2026-08-28T06:23:03.287Z"
         },
         {
           "node_type": "item",
@@ -745,7 +790,8 @@
             "owner": "yuliangguo",
             "repo": "3D_Lane_Synthetic_Dataset",
             "stars": 147
-          }
+          },
+          "first_seen": "2026-08-28T06:23:03.287Z"
         },
         {
           "node_type": "item",
@@ -760,7 +806,8 @@
             "owner": "yujun0-0",
             "repo": "MMA-Net",
             "stars": 104
-          }
+          },
+          "first_seen": "2026-08-28T06:23:03.287Z"
         },
         {
           "node_type": "item",
@@ -775,7 +822,8 @@
             "owner": "dongkwonjin",
             "repo": "RVLD",
             "stars": 91
-          }
+          },
+          "first_seen": "2026-08-28T06:23:03.287Z"
         },
         {
           "node_type": "item",
@@ -790,7 +838,8 @@
             "owner": "vonsj0210",
             "repo": "Multi-Lane-Detection-Dataset-with-Ground-Truth",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-28T06:23:03.287Z"
         },
         {
           "node_type": "item",
@@ -805,14 +854,15 @@
             "owner": "OpenPerceptionX",
             "repo": "OpenLane",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T06:23:03.287Z"
         }
       ],
       "title": "Datasets"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:48:35.731Z",
+    "last_updated": "2026-08-28T06:23:03.287Z",
     "original_repository_info": {
       "archived": false,
       "id": 163154136,
