@@ -12,12 +12,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official code for \"Recursive Video Lane Detection\", ICCV 2023",
+                "homepage": null,
                 "id": 674025860,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-11-08T00:52:41Z",
+                "open_issues": 17,
                 "owner": "dongkwonjin",
                 "repo": "RVLD",
-                "stars": 91
+                "stars": 91,
+                "topics": [
+                  "autonomous-driving",
+                  "deep-learning",
+                  "lane-detection"
+                ]
               },
               "first_seen": "2026-08-28T06:23:03.287Z"
             },
@@ -28,12 +37,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV2023 Oral] LATR: 3D Lane Detection from Monocular Images with Transformer",
+                "homepage": "https://arxiv.org/abs/2308.04583",
                 "id": 667922078,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-12-08T16:57:20Z",
+                "open_issues": 18,
                 "owner": "JMoonr",
                 "repo": "LATR",
-                "stars": 245
+                "stars": 245,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:23:03.287Z"
             },
@@ -44,12 +58,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 550718997,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-05-20T10:45:00Z",
+                "open_issues": 26,
                 "owner": "gigo-team",
                 "repo": "bev_lane_det",
-                "stars": 235
+                "stars": 235,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:23:03.287Z"
             },
@@ -60,12 +79,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official PyTorch implementation for paper`Anchor3DLane: Learning to Regress 3D Anchors for Monocular 3D Lane Detection' accepted by CVPR 2023",
+                "homepage": null,
                 "id": 616883244,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-06-27T03:05:56Z",
+                "open_issues": 20,
                 "owner": "tusen-ai",
                 "repo": "Anchor3DLane",
-                "stars": 191
+                "stars": 191,
+                "topics": [
+                  "3d-lane-detection",
+                  "lane-detection"
+                ]
               },
               "first_seen": "2026-08-28T06:23:03.287Z"
             },
@@ -76,12 +103,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "End-to-End Lane detection with One to Several Transformer",
+                "homepage": null,
                 "id": 624743653,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-02-28T07:44:20Z",
+                "open_issues": 1,
                 "owner": "zkyseu",
                 "repo": "O2SFormer",
-                "stars": 46
+                "stars": 46,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:23:03.287Z"
             }
@@ -99,12 +131,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 537256583,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-02-07T03:52:07Z",
+                "open_issues": 3,
                 "owner": "vincentqqb",
                 "repo": "PriorLane",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:23:03.287Z"
             },
@@ -115,12 +152,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ultra Fast Deep Lane Detection With Hybrid Anchor Driven Ordinal Classification (TPAMI 2022)",
+                "homepage": null,
                 "id": 469546790,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-04-15T08:46:43Z",
+                "open_issues": 152,
                 "owner": "cfzd",
                 "repo": "Ultra-Fast-Lane-Detection-v2",
-                "stars": 850
+                "stars": 850,
+                "topics": [
+                  "deep-learning",
+                  "lane-detection",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T06:23:03.287Z"
             },
@@ -131,12 +177,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 474309229,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-06-07T14:12:14Z",
+                "open_issues": 12,
                 "owner": "once-3dlanes",
                 "repo": "once_3dlanes_benchmark",
-                "stars": 113
+                "stars": 113,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:23:03.287Z"
             },
@@ -147,12 +198,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Keypoint-based Global Association Network for Lane Detection. Accepted by CVPR 2022",
+                "homepage": null,
                 "id": 479939477,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2023-05-19T09:39:09Z",
+                "open_issues": 21,
                 "owner": "Wolfwjs",
                 "repo": "GANet",
-                "stars": 265
+                "stars": 265,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:23:03.287Z"
             },
@@ -163,12 +219,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official code for \"Eigenlanes: Data-Driven Lane Descriptors for Structurally Diverse Lanes\", CVPR2022",
+                "homepage": null,
                 "id": 473832327,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-07-21T11:20:42Z",
+                "open_issues": 1,
                 "owner": "dongkwonjin",
                 "repo": "Eigenlanes",
-                "stars": 134
+                "stars": 134,
+                "topics": [
+                  "deep-learning",
+                  "descroptor",
+                  "lane",
+                  "lane-detection",
+                  "pca",
+                  "pytorch",
+                  "roadlane",
+                  "svd"
+                ]
               },
               "first_seen": "2026-08-28T06:23:03.287Z"
             },
@@ -179,12 +249,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PytorchAutoDrive: Segmentation models (ERFNet, ENet, DeepLab, FCN...) and Lane detection models (SCNN, RESA, LSTR, LaneATT, BézierLaneNet...) based on PyTorch with fast training, visualization, benchmarking & deployment help",
+                "homepage": null,
                 "id": 227979887,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2023-10-04T03:24:58Z",
+                "open_issues": 46,
                 "owner": "voldemortX",
                 "repo": "pytorch-auto-drive",
-                "stars": 952
+                "stars": 952,
+                "topics": [
+                  "apex",
+                  "cityscapes",
+                  "culane",
+                  "deeplab",
+                  "erfnet",
+                  "fcn",
+                  "gtav",
+                  "lane-detection",
+                  "lstr",
+                  "mobilenet",
+                  "onnx",
+                  "pascal-voc",
+                  "pytorch",
+                  "resa",
+                  "scnn",
+                  "semantic-segmentation",
+                  "tensorboard",
+                  "tensorrt",
+                  "tusimple"
+                ]
               },
               "first_seen": "2026-08-28T06:23:03.287Z"
             }
@@ -202,12 +297,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "You Only Look Once for Panopitic Driving Perception.（MIR2022）",
+                "homepage": null,
                 "id": 399722985,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-10-20T16:50:37Z",
+                "open_issues": 157,
                 "owner": "hustvl",
                 "repo": "YOLOP",
-                "stars": 2237
+                "stars": 2238,
+                "topics": [
+                  "autonomous-driving",
+                  "drivable-area-segmentation",
+                  "jetson-tx2",
+                  "lane-detection",
+                  "multitask-learning",
+                  "object-detection"
+                ]
               },
               "first_seen": "2026-08-28T06:23:03.287Z"
             },
@@ -218,12 +325,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "VIL-100: A New Dataset and A Baseline Model for Video Instance Lane Detection (ICCV 2021)",
+                "homepage": null,
                 "id": 397807612,
                 "language": "Makefile",
+                "license": null,
                 "last_commit": "2024-02-01T21:04:57Z",
+                "open_issues": 2,
                 "owner": "yujun0-0",
                 "repo": "MMA-Net",
-                "stars": 104
+                "stars": 104,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:23:03.287Z"
             },
@@ -234,12 +346,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for the paper entitled \"Keep your Eyes on the Lane: Real-time Attention-guided Lane Detection\" (CVPR 2021)",
+                "homepage": "https://openaccess.thecvf.com/content/CVPR2021/html/Tabelini_Keep_Your_Eyes_on_the_Lane_Real-Time_Attention-Guided_Lane_Detection_CVPR_2021_paper.html",
                 "id": 306457648,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-10-09T18:24:04Z",
+                "open_issues": 17,
                 "owner": "lucastabelini",
                 "repo": "LaneATT",
-                "stars": 695
+                "stars": 695,
+                "topics": [
+                  "computer-vision",
+                  "deep-learning",
+                  "lane-detection",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T06:23:03.287Z"
             },
@@ -250,12 +372,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 302441766,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-07-08T01:11:00Z",
+                "open_issues": 14,
                 "owner": "sel118",
                 "repo": "LaneAF",
-                "stars": 197
+                "stars": 197,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:23:03.287Z"
             }
@@ -273,12 +400,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is an official repository of End-to-end Lane Shape Prediction with Transformers.",
+                "homepage": null,
                 "id": 311198036,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2021-12-27T07:23:53Z",
+                "open_issues": 34,
                 "owner": "liuruijin17",
                 "repo": "LSTR",
-                "stars": 662
+                "stars": 662,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:23:03.287Z"
             },
@@ -289,12 +421,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for the paper entitled \"Keep your Eyes on the Lane: Real-time Attention-guided Lane Detection\" (CVPR 2021)",
+                "homepage": "https://openaccess.thecvf.com/content/CVPR2021/html/Tabelini_Keep_Your_Eyes_on_the_Lane_Real-Time_Attention-Guided_Lane_Detection_CVPR_2021_paper.html",
                 "id": 306457648,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-10-09T18:24:04Z",
+                "open_issues": 17,
                 "owner": "lucastabelini",
                 "repo": "LaneATT",
-                "stars": 695
+                "stars": 695,
+                "topics": [
+                  "computer-vision",
+                  "deep-learning",
+                  "lane-detection",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T06:23:03.287Z"
             },
@@ -305,12 +447,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Python implementation of RONELD method (ICPR 2020)",
+                "homepage": null,
                 "id": 309539672,
                 "language": "Python",
+                "license": "LGPL-3.0",
                 "last_commit": "2021-01-12T04:59:52Z",
+                "open_issues": 0,
                 "owner": "czming",
                 "repo": "RONELD-Lane-Detection",
-                "stars": 26
+                "stars": 26,
+                "topics": [
+                  "autonomous-vehicles",
+                  "computer-vision",
+                  "lane-detection",
+                  "lane-detector"
+                ]
               },
               "first_seen": "2026-08-28T06:23:03.287Z"
             },
@@ -321,12 +473,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of our paper 'RESA: Recurrent Feature-Shift Aggregator for Lane Detection' in AAAI2021.",
+                "homepage": null,
                 "id": 342756647,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-10-27T14:38:12Z",
+                "open_issues": 9,
                 "owner": "ZJULearning",
                 "repo": "resa",
-                "stars": 187
+                "stars": 187,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:23:03.287Z"
             },
@@ -337,12 +494,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ultra Fast Structure-aware Deep Lane Detection (ECCV 2020)",
+                "homepage": null,
                 "id": 266319758,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-12-14T06:50:09Z",
+                "open_issues": 97,
                 "owner": "cfzd",
                 "repo": "Ultra-Fast-Lane-Detection",
-                "stars": 2049
+                "stars": 2049,
+                "topics": [
+                  "autonomous-driving",
+                  "autonomous-vehicles",
+                  "cnn",
+                  "lane-detection",
+                  "lane-detector",
+                  "lane-finding",
+                  "pytorch",
+                  "road-detection"
+                ]
               },
               "first_seen": "2026-08-28T06:23:03.287Z"
             },
@@ -353,12 +524,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for the paper entitled \"PolyLaneNet: Lane Estimation via Deep Polynomial Regression\" (ICPR 2020)",
+                "homepage": "https://arxiv.org/abs/2004.10924",
                 "id": 256029034,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-05-31T16:34:54Z",
+                "open_issues": 2,
                 "owner": "lucastabelini",
                 "repo": "PolyLaneNet",
-                "stars": 315
+                "stars": 315,
+                "topics": [
+                  "deep-learning",
+                  "lane-detection",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T06:23:03.287Z"
             },
@@ -369,12 +549,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Inter-Region Affinity Distillation for Road Marking Segmentation (CVPR 2020)",
+                "homepage": null,
                 "id": 244263275,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-04-14T07:19:32Z",
+                "open_issues": 17,
                 "owner": "cardwing",
                 "repo": "Codes-for-IntRA-KD",
-                "stars": 117
+                "stars": 117,
+                "topics": [
+                  "cnn",
+                  "deep-learning",
+                  "lane-detection",
+                  "pytorch",
+                  "road-marking-segmentation"
+                ]
               },
               "first_seen": "2026-08-28T06:23:03.287Z"
             },
@@ -385,12 +576,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV 2020] Official PyTorch implementation of \"Gen-LaneNet: a generalized and scalable approach for 3D lane detection\"",
+                "homepage": null,
                 "id": 196892351,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-08-02T17:52:30Z",
+                "open_issues": 14,
                 "owner": "yuliangguo",
                 "repo": "Pytorch_Generalized_3D_Lane_Detection",
-                "stars": 330
+                "stars": 330,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:23:03.287Z"
             },
@@ -401,12 +597,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The source code of paper FusionLane",
+                "homepage": null,
                 "id": 220396482,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-04-27T04:59:16Z",
+                "open_issues": 3,
                 "owner": "rolandying",
                 "repo": "FusionLane",
-                "stars": 50
+                "stars": 50,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:23:03.287Z"
             },
@@ -417,12 +618,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 241251600,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-09-03T07:42:59Z",
+                "open_issues": 30,
                 "owner": "koyeongmin",
                 "repo": "PINet",
-                "stars": 211
+                "stars": 211,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:23:03.287Z"
             }
@@ -440,12 +646,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Learning Lightweight Lane Detection CNNs by Self Attention Distillation (ICCV 2019)",
+                "homepage": null,
                 "id": 152700563,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2022-06-21T21:48:30Z",
+                "open_issues": 6,
                 "owner": "cardwing",
                 "repo": "Codes-for-Lane-Detection",
-                "stars": 1075
+                "stars": 1075,
+                "topics": [
+                  "cnn",
+                  "deep-learning",
+                  "lane-detection",
+                  "lua",
+                  "pytorch",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T06:23:03.287Z"
             },
@@ -456,12 +674,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Learning Lightweight Lane Detection CNNs by Self Attention Distillation (ICCV 2019)",
+                "homepage": null,
                 "id": 152700563,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2022-06-21T21:48:30Z",
+                "open_issues": 6,
                 "owner": "cardwing",
                 "repo": "Codes-for-Lane-Detection",
-                "stars": 1075
+                "stars": 1075,
+                "topics": [
+                  "cnn",
+                  "deep-learning",
+                  "lane-detection",
+                  "lua",
+                  "pytorch",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T06:23:03.287Z"
             },
@@ -472,12 +702,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deep learning based lane/freespace detector embedded in ROS node (built for UC3M LSI)",
+                "homepage": null,
                 "id": 149779684,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-08-02T13:44:25Z",
+                "open_issues": 2,
                 "owner": "fabvio",
                 "repo": "ld-lsi",
-                "stars": 88
+                "stars": 88,
+                "topics": [
+                  "autonomous-car",
+                  "autonomous-driving",
+                  "autonomous-vehicles",
+                  "cnn",
+                  "convolutional-neural-networks",
+                  "deep-learning",
+                  "freespace",
+                  "lane-detection",
+                  "ros"
+                ]
               },
               "first_seen": "2026-08-28T06:23:03.287Z"
             },
@@ -488,12 +733,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "End-to-end Lane Detection for Self-Driving Cars (ICCV 2019 Workshop)",
+                "homepage": "https://arxiv.org/pdf/1902.00293.pdf",
                 "id": 167957054,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2020-05-14T09:45:38Z",
+                "open_issues": 10,
                 "owner": "wvangansbeke",
                 "repo": "LaneDetection_End2End",
-                "stars": 664
+                "stars": 664,
+                "topics": [
+                  "computer-vision",
+                  "deep-learning",
+                  "end-to-end",
+                  "lane-detection",
+                  "least-squares",
+                  "pytorch",
+                  "self-driving-cars"
+                ]
               },
               "first_seen": "2026-08-28T06:23:03.287Z"
             }
@@ -511,12 +769,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unofficial implemention of lanenet model for real time lane detection",
+                "homepage": null,
                 "id": 135230742,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-12-08T16:17:26Z",
+                "open_issues": 4,
                 "owner": "MaybeShewill-CV",
                 "repo": "lanenet-lane-detection",
-                "stars": 2562
+                "stars": 2562,
+                "topics": [
+                  "deep-learning",
+                  "instance-segmentation",
+                  "lane-detection",
+                  "lane-finding",
+                  "lane-lines-detection",
+                  "lanenet",
+                  "self-driving-car",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T06:23:03.287Z"
             }
@@ -538,12 +810,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PytorchAutoDrive: Segmentation models (ERFNet, ENet, DeepLab, FCN...) and Lane detection models (SCNN, RESA, LSTR, LaneATT, BézierLaneNet...) based on PyTorch with fast training, visualization, benchmarking & deployment help",
+            "homepage": null,
             "id": 227979887,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2023-10-04T03:24:58Z",
+            "open_issues": 46,
             "owner": "voldemortX",
             "repo": "pytorch-auto-drive",
-            "stars": 952
+            "stars": 952,
+            "topics": [
+              "apex",
+              "cityscapes",
+              "culane",
+              "deeplab",
+              "erfnet",
+              "fcn",
+              "gtav",
+              "lane-detection",
+              "lstr",
+              "mobilenet",
+              "onnx",
+              "pascal-voc",
+              "pytorch",
+              "resa",
+              "scnn",
+              "semantic-segmentation",
+              "tensorboard",
+              "tensorrt",
+              "tusimple"
+            ]
           },
           "first_seen": "2026-08-28T06:23:03.287Z"
         },
@@ -554,12 +851,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learning Lightweight Lane Detection CNNs by Self Attention Distillation (ICCV 2019)",
+            "homepage": null,
             "id": 152700563,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2022-06-21T21:48:30Z",
+            "open_issues": 6,
             "owner": "cardwing",
             "repo": "Codes-for-Lane-Detection",
-            "stars": 1075
+            "stars": 1075,
+            "topics": [
+              "cnn",
+              "deep-learning",
+              "lane-detection",
+              "lua",
+              "pytorch",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T06:23:03.287Z"
         },
@@ -570,12 +879,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for https://unsupervised-llamas.com",
+            "homepage": null,
             "id": 187071799,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-02-24T10:43:31Z",
+            "open_issues": 0,
             "owner": "karstenBehrendt",
             "repo": "unsupervised_llamas",
-            "stars": 108
+            "stars": 108,
+            "topics": [
+              "detection",
+              "lane-marker",
+              "segmentation"
+            ]
           },
           "first_seen": "2026-08-28T06:23:03.287Z"
         },
@@ -586,12 +904,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "End-to-end Lane Detection for Self-Driving Cars (ICCV 2019 Workshop)",
+            "homepage": "https://arxiv.org/pdf/1902.00293.pdf",
             "id": 167957054,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2020-05-14T09:45:38Z",
+            "open_issues": 10,
             "owner": "wvangansbeke",
             "repo": "LaneDetection_End2End",
-            "stars": 664
+            "stars": 664,
+            "topics": [
+              "computer-vision",
+              "deep-learning",
+              "end-to-end",
+              "lane-detection",
+              "least-squares",
+              "pytorch",
+              "self-driving-cars"
+            ]
           },
           "first_seen": "2026-08-28T06:23:03.287Z"
         },
@@ -602,12 +933,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Advanced lane detection using computer vision",
+            "homepage": null,
             "id": 81287728,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-12-12T19:24:17Z",
+            "open_issues": 14,
             "owner": "georgesung",
             "repo": "advanced_lane_detection",
-            "stars": 559
+            "stars": 559,
+            "topics": [
+              "camera-calibration",
+              "computer-vision",
+              "lane-boundaries",
+              "lane-curvature",
+              "lane-detection",
+              "lane-detector",
+              "lane-finding",
+              "lane-lines",
+              "self-driving-car",
+              "udacity-carnd"
+            ]
           },
           "first_seen": "2026-08-28T06:23:03.287Z"
         },
@@ -618,12 +965,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unofficial implemention of lanenet model for real time lane detection",
+            "homepage": null,
             "id": 135230742,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-12-08T16:17:26Z",
+            "open_issues": 4,
             "owner": "MaybeShewill-CV",
             "repo": "lanenet-lane-detection",
-            "stars": 2562
+            "stars": 2562,
+            "topics": [
+              "deep-learning",
+              "instance-segmentation",
+              "lane-detection",
+              "lane-finding",
+              "lane-lines-detection",
+              "lanenet",
+              "self-driving-car",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T06:23:03.287Z"
         },
@@ -634,12 +995,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Spatial CNN for traffic lane detection (AAAI2018)",
+            "homepage": null,
             "id": 114518501,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-01-16T03:25:06Z",
+            "open_issues": 72,
             "owner": "XingangPan",
             "repo": "SCNN",
-            "stars": 863
+            "stars": 863,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.287Z"
         },
@@ -650,12 +1016,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Using OpenCV to detect Lane lines on Roads",
+            "homepage": null,
             "id": 76584690,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2017-05-07T01:43:59Z",
+            "open_issues": 0,
             "owner": "davidawad",
             "repo": "Lane-Detection",
-            "stars": 78
+            "stars": 78,
+            "topics": [
+              "cars",
+              "computer",
+              "driving",
+              "lane-detection",
+              "numpy",
+              "opencv",
+              "regression",
+              "road",
+              "sdc",
+              "self",
+              "vision"
+            ]
           },
           "first_seen": "2026-08-28T06:23:03.287Z"
         },
@@ -666,12 +1049,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 106161562,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-08-13T16:44:09Z",
+            "open_issues": 0,
             "owner": "yang1688899",
             "repo": "CarND-Advanced-Lane-Lines",
-            "stars": 346
+            "stars": 346,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.287Z"
         },
@@ -682,12 +1070,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "VPGNet: Vanishing Point Guided Network for Lane and Road Marking Detection and Recognition (ICCV 2017)",
+            "homepage": null,
             "id": 98298394,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2020-04-14T07:43:18Z",
+            "open_issues": 35,
             "owner": "SeokjuLee",
             "repo": "VPGNet",
-            "stars": 503
+            "stars": 503,
+            "topics": [
+              "autonomous-driving",
+              "caffe",
+              "dataset",
+              "lane-detection",
+              "semantic-segmentation",
+              "vpgnet"
+            ]
           },
           "first_seen": "2026-08-28T06:23:03.287Z"
         },
@@ -698,12 +1098,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lane Detection with Deep Learning - My Capstone project for Udacity's ML Nanodegree",
+            "homepage": null,
             "id": 85507355,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-05-08T07:05:47Z",
+            "open_issues": 5,
             "owner": "mvirgo",
             "repo": "MLND-Capstone",
-            "stars": 440
+            "stars": 440,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.287Z"
         },
@@ -714,12 +1119,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenCV in Python for lane line and vehicle detection/tracking in autonomous cars",
+            "homepage": null,
             "id": 81663717,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2021-01-05T00:22:45Z",
+            "open_issues": 1,
             "owner": "galenballew",
             "repo": "SDC-Lane-and-Vehicle-Detection-Tracking",
-            "stars": 247
+            "stars": 247,
+            "topics": [
+              "computer-vision",
+              "convolutional-neural-networks",
+              "deep-learning",
+              "deep-neural-networks",
+              "machine-learning",
+              "object-detection",
+              "opencv",
+              "python",
+              "python3",
+              "self-driving-car",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T06:23:03.287Z"
         },
@@ -730,12 +1152,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Advance_LaneFinding",
+            "homepage": null,
             "id": 131600746,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2018-04-30T14:03:46Z",
+            "open_issues": 2,
             "owner": "shawshany",
             "repo": "Advance_LaneFinding",
-            "stars": 94
+            "stars": 94,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.287Z"
         }
@@ -752,12 +1179,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Download Datasets and Ground Truths:  https://github.com/TuSimple/tusimple-benchmark/issues/3",
+            "homepage": null,
             "id": 90491749,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2021-05-28T18:08:53Z",
+            "open_issues": 31,
             "owner": "TuSimple",
             "repo": "tusimple-benchmark",
-            "stars": 595
+            "stars": 595,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.287Z"
         },
@@ -768,12 +1200,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "VPGNet: Vanishing Point Guided Network for Lane and Road Marking Detection and Recognition (ICCV 2017)",
+            "homepage": null,
             "id": 98298394,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2020-04-14T07:43:18Z",
+            "open_issues": 35,
             "owner": "SeokjuLee",
             "repo": "VPGNet",
-            "stars": 503
+            "stars": 503,
+            "topics": [
+              "autonomous-driving",
+              "caffe",
+              "dataset",
+              "lane-detection",
+              "semantic-segmentation",
+              "vpgnet"
+            ]
           },
           "first_seen": "2026-08-28T06:23:03.287Z"
         },
@@ -784,12 +1228,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a synthetic dataset constructed to stimulate the development and evaluation of 3D lane detection methods.",
+            "homepage": null,
             "id": 212230201,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-03-13T17:46:08Z",
+            "open_issues": 10,
             "owner": "yuliangguo",
             "repo": "3D_Lane_Synthetic_Dataset",
-            "stars": 147
+            "stars": 147,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.287Z"
         },
@@ -800,12 +1249,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "VIL-100: A New Dataset and A Baseline Model for Video Instance Lane Detection (ICCV 2021)",
+            "homepage": null,
             "id": 397807612,
             "language": "Makefile",
+            "license": null,
             "last_commit": "2024-02-01T21:04:57Z",
+            "open_issues": 2,
             "owner": "yujun0-0",
             "repo": "MMA-Net",
-            "stars": 104
+            "stars": 104,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.287Z"
         },
@@ -816,12 +1270,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official code for \"Recursive Video Lane Detection\", ICCV 2023",
+            "homepage": null,
             "id": 674025860,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-11-08T00:52:41Z",
+            "open_issues": 17,
             "owner": "dongkwonjin",
             "repo": "RVLD",
-            "stars": 91
+            "stars": 91,
+            "topics": [
+              "autonomous-driving",
+              "deep-learning",
+              "lane-detection"
+            ]
           },
           "first_seen": "2026-08-28T06:23:03.287Z"
         },
@@ -832,12 +1295,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 183164534,
             "language": null,
+            "license": null,
             "last_commit": "2019-12-19T05:58:27Z",
+            "open_issues": 5,
             "owner": "vonsj0210",
             "repo": "Multi-Lane-Detection-Dataset-with-Ground-Truth",
-            "stars": 49
+            "stars": 49,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.287Z"
         },
@@ -848,12 +1316,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ECCV 2022 oral] OpenLane: Large-scale Realistic 3D Lane Dataset. Redirect to https://github.com/OpenDriveLab/OpenLane.",
+            "homepage": null,
             "id": 598513880,
             "language": null,
+            "license": null,
             "last_commit": "2023-02-07T09:41:19Z",
+            "open_issues": 0,
             "owner": "OpenPerceptionX",
             "repo": "OpenLane",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "autonomous-driving",
+              "dataset",
+              "deep-learning",
+              "lane-detection"
+            ]
           },
           "first_seen": "2026-08-28T06:23:03.287Z"
         }
@@ -862,15 +1340,23 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:23:03.287Z",
+    "last_updated": "2026-08-29T03:55:20.659Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A paper list of lane detection.",
+      "homepage": null,
       "id": 163154136,
       "language": null,
+      "license": null,
       "last_commit": "2024-08-16T02:29:01Z",
+      "open_issues": 18,
       "owner": "amusi",
       "repo": "awesome-lane-detection",
-      "stars": 3062
+      "stars": 3062,
+      "topics": [
+        "lane-detection",
+        "lane-lines-detection"
+      ]
     },
     "original_repository_sha": "be2cb2d46a554e800f4e28f6b3ce7b22d0def28d",
     "enhanced_repository": "enhansome/enhansome-lane-detection",
