@@ -36,7 +36,7 @@ Lane Detection
 
 [BEV-LaneDet: a Simple and Effective 3D Lane Detection Baseline](https://arxiv.org/abs/2210.06006)  [github](https://github.com/gigo-team/bev_lane_det) ⭐ 235 | 🐛 26 | 📅 2023-05-20  CVPR 2023
 
-[Anchor3DLane: Learning to Regress 3D Anchors for Monocular 3D Lane Detection](https://arxiv.org/abs/2301.02371)  [github](https://github.com/tusen-ai/Anchor3DLane) ⭐ 191 | 🐛 20 | 🌐 Python | 📅 2025-06-27  CVPR 2023
+[Anchor3DLane: Learning to Regress 3D Anchors for Monocular 3D Lane Detection](https://arxiv.org/abs/2301.02371)  [github](https://github.com/tusen-ai/Anchor3DLane) ⭐ 192 | 🐛 20 | 🌐 Python | 📅 2025-06-27  CVPR 2023
 
 [End to End Lane detection with One-to-Several Transformer](https://arxiv.org/abs/2305.00675)  [github](https://github.com/zkyseu/O2SFormer) ⭐ 46 | 🐛 1 | 🌐 Python | 📅 2024-02-28
 
@@ -290,8 +290,8 @@ Lane Detection
 If you have any suggestions about papers, feel free to mail me :)
 
 * [blog](http://www.cverblog.cn/)
-* [pull](https://github.com/amusi/awesome-lane-detection/pulls) ⭐ 3,062 | 🐛 18 | 📅 2024-08-16
+* [pull](https://github.com/amusi/awesome-lane-detection/pulls) ⭐ 3,063 | 🐛 18 | 📅 2024-08-16
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._

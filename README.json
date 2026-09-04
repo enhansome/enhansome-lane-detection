@@ -88,7 +88,7 @@
                 "open_issues": 20,
                 "owner": "tusen-ai",
                 "repo": "Anchor3DLane",
-                "stars": 191,
+                "stars": 192,
                 "topics": [
                   "3d-lane-detection",
                   "lane-detection"
@@ -1340,7 +1340,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T00:45:11.465Z",
+    "last_updated": "2026-09-04T00:27:53.381Z",
     "original_repository_info": {
       "archived": false,
       "description": "A paper list of lane detection.",
@@ -1352,7 +1352,7 @@
       "open_issues": 18,
       "owner": "amusi",
       "repo": "awesome-lane-detection",
-      "stars": 3062,
+      "stars": 3063,
       "topics": [
         "lane-detection",
         "lane-lines-detection"
