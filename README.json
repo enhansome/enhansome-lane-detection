@@ -1340,7 +1340,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T00:15:23.111Z",
+    "last_updated": "2026-09-07T00:22:59.945Z",
     "original_repository_info": {
       "archived": false,
       "description": "A paper list of lane detection.",
@@ -1352,7 +1352,7 @@
       "open_issues": 18,
       "owner": "amusi",
       "repo": "awesome-lane-detection",
-      "stars": 3063,
+      "stars": 3064,
       "topics": [
         "lane-detection",
         "lane-lines-detection"

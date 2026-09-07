@@ -290,8 +290,8 @@ Lane Detection
 If you have any suggestions about papers, feel free to mail me :)
 
 * [blog](http://www.cverblog.cn/)
-* [pull](https://github.com/amusi/awesome-lane-detection/pulls) ⭐ 3,063 | 🐛 18 | 📅 2024-08-16
+* [pull](https://github.com/amusi/awesome-lane-detection/pulls) ⭐ 3,064 | 🐛 18 | 📅 2024-08-16
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
