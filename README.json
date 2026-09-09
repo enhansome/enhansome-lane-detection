@@ -228,7 +228,7 @@
                 "open_issues": 1,
                 "owner": "dongkwonjin",
                 "repo": "Eigenlanes",
-                "stars": 134,
+                "stars": 133,
                 "topics": [
                   "deep-learning",
                   "descroptor",
@@ -355,7 +355,7 @@
                 "open_issues": 17,
                 "owner": "lucastabelini",
                 "repo": "LaneATT",
-                "stars": 697,
+                "stars": 698,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -430,7 +430,7 @@
                 "open_issues": 17,
                 "owner": "lucastabelini",
                 "repo": "LaneATT",
-                "stars": 697,
+                "stars": 698,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -503,7 +503,7 @@
                 "open_issues": 97,
                 "owner": "cfzd",
                 "repo": "Ultra-Fast-Lane-Detection",
-                "stars": 2049,
+                "stars": 2050,
                 "topics": [
                   "autonomous-driving",
                   "autonomous-vehicles",
@@ -627,7 +627,7 @@
                 "open_issues": 30,
                 "owner": "koyeongmin",
                 "repo": "PINet",
-                "stars": 211,
+                "stars": 210,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:23:03.287Z"
@@ -655,7 +655,7 @@
                 "open_issues": 6,
                 "owner": "cardwing",
                 "repo": "Codes-for-Lane-Detection",
-                "stars": 1075,
+                "stars": 1073,
                 "topics": [
                   "cnn",
                   "deep-learning",
@@ -683,7 +683,7 @@
                 "open_issues": 6,
                 "owner": "cardwing",
                 "repo": "Codes-for-Lane-Detection",
-                "stars": 1075,
+                "stars": 1073,
                 "topics": [
                   "cnn",
                   "deep-learning",
@@ -742,7 +742,7 @@
                 "open_issues": 10,
                 "owner": "wvangansbeke",
                 "repo": "LaneDetection_End2End",
-                "stars": 664,
+                "stars": 662,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -778,7 +778,7 @@
                 "open_issues": 4,
                 "owner": "MaybeShewill-CV",
                 "repo": "lanenet-lane-detection",
-                "stars": 2563,
+                "stars": 2561,
                 "topics": [
                   "deep-learning",
                   "instance-segmentation",
@@ -860,7 +860,7 @@
             "open_issues": 6,
             "owner": "cardwing",
             "repo": "Codes-for-Lane-Detection",
-            "stars": 1075,
+            "stars": 1073,
             "topics": [
               "cnn",
               "deep-learning",
@@ -913,7 +913,7 @@
             "open_issues": 10,
             "owner": "wvangansbeke",
             "repo": "LaneDetection_End2End",
-            "stars": 664,
+            "stars": 662,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -974,7 +974,7 @@
             "open_issues": 4,
             "owner": "MaybeShewill-CV",
             "repo": "lanenet-lane-detection",
-            "stars": 2563,
+            "stars": 2561,
             "topics": [
               "deep-learning",
               "instance-segmentation",
@@ -1340,7 +1340,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T00:44:21.789Z",
+    "last_updated": "2026-09-09T00:42:56.746Z",
     "original_repository_info": {
       "archived": false,
       "description": "A paper list of lane detection.",
@@ -1352,7 +1352,7 @@
       "open_issues": 18,
       "owner": "amusi",
       "repo": "awesome-lane-detection",
-      "stars": 3064,
+      "stars": 3063,
       "topics": [
         "lane-detection",
         "lane-lines-detection"
