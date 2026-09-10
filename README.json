@@ -778,7 +778,7 @@
                 "open_issues": 4,
                 "owner": "MaybeShewill-CV",
                 "repo": "lanenet-lane-detection",
-                "stars": 2561,
+                "stars": 2562,
                 "topics": [
                   "deep-learning",
                   "instance-segmentation",
@@ -974,7 +974,7 @@
             "open_issues": 4,
             "owner": "MaybeShewill-CV",
             "repo": "lanenet-lane-detection",
-            "stars": 2561,
+            "stars": 2562,
             "topics": [
               "deep-learning",
               "instance-segmentation",
@@ -1340,7 +1340,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T00:42:56.746Z",
+    "last_updated": "2026-09-10T00:39:48.761Z",
     "original_repository_info": {
       "archived": false,
       "description": "A paper list of lane detection.",
