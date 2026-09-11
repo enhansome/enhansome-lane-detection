@@ -306,7 +306,7 @@
                 "open_issues": 157,
                 "owner": "hustvl",
                 "repo": "YOLOP",
-                "stars": 2239,
+                "stars": 2241,
                 "topics": [
                   "autonomous-driving",
                   "drivable-area-segmentation",
@@ -355,7 +355,7 @@
                 "open_issues": 17,
                 "owner": "lucastabelini",
                 "repo": "LaneATT",
-                "stars": 698,
+                "stars": 697,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -430,7 +430,7 @@
                 "open_issues": 17,
                 "owner": "lucastabelini",
                 "repo": "LaneATT",
-                "stars": 698,
+                "stars": 697,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -742,7 +742,7 @@
                 "open_issues": 10,
                 "owner": "wvangansbeke",
                 "repo": "LaneDetection_End2End",
-                "stars": 662,
+                "stars": 663,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -778,7 +778,7 @@
                 "open_issues": 4,
                 "owner": "MaybeShewill-CV",
                 "repo": "lanenet-lane-detection",
-                "stars": 2562,
+                "stars": 2563,
                 "topics": [
                   "deep-learning",
                   "instance-segmentation",
@@ -913,7 +913,7 @@
             "open_issues": 10,
             "owner": "wvangansbeke",
             "repo": "LaneDetection_End2End",
-            "stars": 662,
+            "stars": 663,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -974,7 +974,7 @@
             "open_issues": 4,
             "owner": "MaybeShewill-CV",
             "repo": "lanenet-lane-detection",
-            "stars": 2562,
+            "stars": 2563,
             "topics": [
               "deep-learning",
               "instance-segmentation",
@@ -1340,7 +1340,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T00:39:48.761Z",
+    "last_updated": "2026-09-11T00:36:43.629Z",
     "original_repository_info": {
       "archived": false,
       "description": "A paper list of lane detection.",
@@ -1352,7 +1352,7 @@
       "open_issues": 18,
       "owner": "amusi",
       "repo": "awesome-lane-detection",
-      "stars": 3063,
+      "stars": 3062,
       "topics": [
         "lane-detection",
         "lane-lines-detection"

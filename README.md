@@ -88,7 +88,7 @@ Lane Detection
 
 [A Hybrid Spatial-temporal Sequence-to-one Neural Network Model for Lane Detection](https://arxiv.org/abs/2110.04079)
 
-[YOLOP: You Only Look Once for Panoptic Driving Perception](https://arxiv.org/abs/2108.11250)  [github](https://github.com/hustvl/YOLOP) ⭐ 2,239 | 🐛 157 | 🌐 Python | 📅 2023-10-20
+[YOLOP: You Only Look Once for Panoptic Driving Perception](https://arxiv.org/abs/2108.11250)  [github](https://github.com/hustvl/YOLOP) ⭐ 2,241 | 🐛 157 | 🌐 Python | 📅 2023-10-20
 
 [VIL-100: A New Dataset and A Baseline Model for Video Instance Lane Detection](https://arxiv.org/abs/2108.08482)  [github](https://github.com/yujun0-0/MMA-Net) ⭐ 104 | 🐛 2 | 🌐 Makefile | 📅 2024-02-01  [dataset](https://github.com/yujun0-0/MMA-Net) ⭐ 104 | 🐛 2 | 🌐 Makefile | 📅 2024-02-01  ICCV 2021
 
@@ -100,7 +100,7 @@ Lane Detection
 
 [CondLaneNet: a Top-to-down Lane Detection Framework Based on Conditional Convolution](https://arxiv.org/abs/2105.05003)
 
-[Keep your Eyes on the Lane: Real-time Attention-guided Lane Detection](https://arxiv.org/abs/2010.12035)  [github](https://github.com/lucastabelini/LaneATT) ⭐ 698 | 🐛 17 | 🌐 Python | 📅 2022-10-09  CVPR 2021
+[Keep your Eyes on the Lane: Real-time Attention-guided Lane Detection](https://arxiv.org/abs/2010.12035)  [github](https://github.com/lucastabelini/LaneATT) ⭐ 697 | 🐛 17 | 🌐 Python | 📅 2022-10-09  CVPR 2021
 
 [YOLinO: Generic Single Shot Polyline Detection in Real Time](https://arxiv.org/abs/2103.14420)
 
@@ -116,7 +116,7 @@ Lane Detection
 
 [3D-LaneNet+: Anchor Free Lane Detection using a Semi-Local Representation](https://arxiv.org/abs/2011.01535)
 
-[Keep your Eyes on the Lane: Attention-guided Lane Detection](https://arxiv.org/abs/2010.12035)  [github](https://github.com/lucastabelini/LaneATT) ⭐ 698 | 🐛 17 | 🌐 Python | 📅 2022-10-09
+[Keep your Eyes on the Lane: Attention-guided Lane Detection](https://arxiv.org/abs/2010.12035)  [github](https://github.com/lucastabelini/LaneATT) ⭐ 697 | 🐛 17 | 🌐 Python | 📅 2022-10-09
 
 [RONELD: Robust Neural Network Output Enhancement for Active Lane Detection](https://arxiv.org/abs/2010.09548)  [github](https://github.com/czming/RONELD-Lane-Detection) ⭐ 26 | 🐛 0 | 🌐 Python | 📅 2021-01-12  ICPR 2020
 
@@ -180,7 +180,7 @@ Lane Detection
 
 [Robust Lane Detection from Continuous Driving Scenes Using Deep Neural Networks](https://arxiv.org/abs/1903.02193)
 
-[End-to-end Lane Detection through Differentiable Least-Squares Fitting](https://arxiv.org/abs/1902.00293)  [github](https://github.com/wvangansbeke/LaneDetection_End2End) ⭐ 662 | 🐛 10 | 🌐 Python | 📅 2020-05-14
+[End-to-end Lane Detection through Differentiable Least-Squares Fitting](https://arxiv.org/abs/1902.00293)  [github](https://github.com/wvangansbeke/LaneDetection_End2End) ⭐ 663 | 🐛 10 | 🌐 Python | 📅 2020-05-14
 
 ## 2018
 
@@ -202,7 +202,7 @@ Lane Detection
 
 [Real-time Lane Marker Detection Using Template Matching with RGB-D Camera](https://arxiv.org/abs/1806.01621)
 
-[Towards End-to-End Lane Detection: an Instance Segmentation Approach](https://arxiv.org/abs/1802.05591)    [论文解读](https://mp.weixin.qq.com/s/sGbSiCHpKjqKe9FP1ykjGw)  [github](https://github.com/MaybeShewill-CV/lanenet-lane-detection) ⭐ 2,562 | 🐛 4 | 🌐 Python | 📅 2023-12-08
+[Towards End-to-End Lane Detection: an Instance Segmentation Approach](https://arxiv.org/abs/1802.05591)    [论文解读](https://mp.weixin.qq.com/s/sGbSiCHpKjqKe9FP1ykjGw)  [github](https://github.com/MaybeShewill-CV/lanenet-lane-detection) ⭐ 2,563 | 🐛 4 | 🌐 Python | 📅 2023-12-08
 
 [Lane Detection and Classification for Forward Collision Warning System Based on Stereo Vision](https://ieeexplore.ieee.org/document/8353455/)
 
@@ -230,11 +230,11 @@ Lane Detection
 
 <https://github.com/karstenBehrendt/unsupervised_llamas> ⭐ 108 | 🐛 0 | 🌐 Python | 📅 2022-02-24
 
-<https://github.com/wvangansbeke/LaneDetection_End2End> ⭐ 662 | 🐛 10 | 🌐 Python | 📅 2020-05-14
+<https://github.com/wvangansbeke/LaneDetection_End2End> ⭐ 663 | 🐛 10 | 🌐 Python | 📅 2020-05-14
 
 <https://github.com/georgesung/advanced_lane_detection> ⭐ 558 | 🐛 14 | 🌐 Python | 📅 2020-12-12
 
-<https://github.com/MaybeShewill-CV/lanenet-lane-detection> ⭐ 2,562 | 🐛 4 | 🌐 Python | 📅 2023-12-08
+<https://github.com/MaybeShewill-CV/lanenet-lane-detection> ⭐ 2,563 | 🐛 4 | 🌐 Python | 📅 2023-12-08
 
 <https://github.com/XingangPan/SCNN> ⭐ 863 | 🐛 72 | 🌐 Lua | 📅 2026-01-16
 
@@ -290,8 +290,8 @@ Lane Detection
 If you have any suggestions about papers, feel free to mail me :)
 
 * [blog](http://www.cverblog.cn/)
-* [pull](https://github.com/amusi/awesome-lane-detection/pulls) ⭐ 3,063 | 🐛 18 | 📅 2024-08-16
+* [pull](https://github.com/amusi/awesome-lane-detection/pulls) ⭐ 3,062 | 🐛 18 | 📅 2024-08-16
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
