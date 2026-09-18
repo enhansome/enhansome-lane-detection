@@ -306,7 +306,7 @@
                 "open_issues": 157,
                 "owner": "hustvl",
                 "repo": "YOLOP",
-                "stars": 2241,
+                "stars": 2242,
                 "topics": [
                   "autonomous-driving",
                   "drivable-area-segmentation",
@@ -381,7 +381,7 @@
                 "open_issues": 14,
                 "owner": "sel118",
                 "repo": "LaneAF",
-                "stars": 197,
+                "stars": 198,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:23:03.287Z"
@@ -503,7 +503,7 @@
                 "open_issues": 97,
                 "owner": "cfzd",
                 "repo": "Ultra-Fast-Lane-Detection",
-                "stars": 2052,
+                "stars": 2053,
                 "topics": [
                   "autonomous-driving",
                   "autonomous-vehicles",
@@ -1340,7 +1340,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T00:54:39.310Z",
+    "last_updated": "2026-09-18T00:49:32.275Z",
     "original_repository_info": {
       "archived": false,
       "description": "A paper list of lane detection.",
@@ -1352,7 +1352,7 @@
       "open_issues": 18,
       "owner": "amusi",
       "repo": "awesome-lane-detection",
-      "stars": 3063,
+      "stars": 3064,
       "topics": [
         "lane-detection",
         "lane-lines-detection"
