@@ -138,7 +138,7 @@ Lane Detection
 
 [SUPER: A Novel Lane Detection System](https://arxiv.org/abs/2005.07277)
 
-[Ultra Fast Structure-aware Deep Lane Detection](https://arxiv.org/abs/2004.11757)  [github](https://github.com/cfzd/Ultra-Fast-Lane-Detection) ⭐ 2,053 | 🐛 97 | 🌐 Python | 📅 2022-12-14  ECCV 2020
+[Ultra Fast Structure-aware Deep Lane Detection](https://arxiv.org/abs/2004.11757)  [github](https://github.com/cfzd/Ultra-Fast-Lane-Detection) ⭐ 2,054 | 🐛 97 | 🌐 Python | 📅 2022-12-14  ECCV 2020
 
 [PolyLaneNet: Lane Estimation via Deep Polynomial Regression](https://github.com/lucastabelini/PolyLaneNet) ⭐ 315 | 🐛 2 | 🌐 Python | 📅 2021-05-31  [github](https://github.com/lucastabelini/PolyLaneNet) ⭐ 315 | 🐛 2 | 🌐 Python | 📅 2021-05-31
 
@@ -152,7 +152,7 @@ Lane Detection
 
 [FusionLane: Multi-Sensor Fusion for Lane Marking Semantic Segmentation Using Deep Neural Networks](https://arxiv.org/abs/2003.04404) [github](https://github.com/rolandying/FusionLane) ⭐ 50 | 🐛 3 | 🌐 Python | 📅 2023-04-27
 
-[PINet：Key Points Estimation and Point Instance Segmentation Approach for Lane Detection](https://arxiv.org/abs/2002.06604)  [github](https://github.com/koyeongmin/PINet) ⭐ 210 | 🐛 30 | 🌐 Python | 📅 2020-09-03
+[PINet：Key Points Estimation and Point Instance Segmentation Approach for Lane Detection](https://arxiv.org/abs/2002.06604)  [github](https://github.com/koyeongmin/PINet) ⭐ 209 | 🐛 30 | 🌐 Python | 📅 2020-09-03
 
 [Better-CycleGAN + ERFNet: Lane Detection in Low-light Conditions Using an Efficient Data Enhancement : Light Conditions Style Transfer](https://arxiv.org/abs/2002.01177)  submitted to IV 2020
 
@@ -294,4 +294,4 @@ If you have any suggestions about papers, feel free to mail me :)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
