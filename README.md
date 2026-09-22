@@ -60,7 +60,7 @@ Lane Detection
 
 [Multi-level Domain Adaptation for Lane Detection](https://arxiv.org/abs/2206.10692)
 
-[Ultra Fast Deep Lane Detection with Hybrid Anchor Driven Ordinal Classification](https://arxiv.org/abs/2206.07389)  [github](https://github.com/cfzd/Ultra-Fast-Lane-Detection-v2) ⭐ 852 | 🐛 152 | 🌐 Python | 📅 2024-04-15  TPAMI 2022
+[Ultra Fast Deep Lane Detection with Hybrid Anchor Driven Ordinal Classification](https://arxiv.org/abs/2206.07389)  [github](https://github.com/cfzd/Ultra-Fast-Lane-Detection-v2) ⭐ 853 | 🐛 152 | 🌐 Python | 📅 2024-04-15  TPAMI 2022
 
 [ONCE-3DLanes: Building Monocular 3D Lane Detection](https://arxiv.org/abs/2205.00301)  [Homepage](https://once-3dlanes.github.io/)  [github](https://github.com/once-3dlanes/once_3dlanes_benchmark) ⭐ 114 | 🐛 12 | 🌐 Python | 📅 2022-06-07  [Dataset](https://once-3dlanes.github.io/3dlanes/)  CVPR 2022
 
@@ -138,7 +138,7 @@ Lane Detection
 
 [SUPER: A Novel Lane Detection System](https://arxiv.org/abs/2005.07277)
 
-[Ultra Fast Structure-aware Deep Lane Detection](https://arxiv.org/abs/2004.11757)  [github](https://github.com/cfzd/Ultra-Fast-Lane-Detection) ⭐ 2,055 | 🐛 97 | 🌐 Python | 📅 2022-12-14  ECCV 2020
+[Ultra Fast Structure-aware Deep Lane Detection](https://arxiv.org/abs/2004.11757)  [github](https://github.com/cfzd/Ultra-Fast-Lane-Detection) ⭐ 2,057 | 🐛 97 | 🌐 Python | 📅 2022-12-14  ECCV 2020
 
 [PolyLaneNet: Lane Estimation via Deep Polynomial Regression](https://github.com/lucastabelini/PolyLaneNet) ⭐ 315 | 🐛 2 | 🌐 Python | 📅 2021-05-31  [github](https://github.com/lucastabelini/PolyLaneNet) ⭐ 315 | 🐛 2 | 🌐 Python | 📅 2021-05-31
 
@@ -202,7 +202,7 @@ Lane Detection
 
 [Real-time Lane Marker Detection Using Template Matching with RGB-D Camera](https://arxiv.org/abs/1806.01621)
 
-[Towards End-to-End Lane Detection: an Instance Segmentation Approach](https://arxiv.org/abs/1802.05591)    [论文解读](https://mp.weixin.qq.com/s/sGbSiCHpKjqKe9FP1ykjGw)  [github](https://github.com/MaybeShewill-CV/lanenet-lane-detection) ⭐ 2,564 | 🐛 4 | 🌐 Python | 📅 2023-12-08
+[Towards End-to-End Lane Detection: an Instance Segmentation Approach](https://arxiv.org/abs/1802.05591)    [论文解读](https://mp.weixin.qq.com/s/sGbSiCHpKjqKe9FP1ykjGw)  [github](https://github.com/MaybeShewill-CV/lanenet-lane-detection) ⭐ 2,565 | 🐛 4 | 🌐 Python | 📅 2023-12-08
 
 [Lane Detection and Classification for Forward Collision Warning System Based on Stereo Vision](https://ieeexplore.ieee.org/document/8353455/)
 
@@ -234,7 +234,7 @@ Lane Detection
 
 <https://github.com/georgesung/advanced_lane_detection> ⭐ 558 | 🐛 14 | 🌐 Python | 📅 2020-12-12
 
-<https://github.com/MaybeShewill-CV/lanenet-lane-detection> ⭐ 2,564 | 🐛 4 | 🌐 Python | 📅 2023-12-08
+<https://github.com/MaybeShewill-CV/lanenet-lane-detection> ⭐ 2,565 | 🐛 4 | 🌐 Python | 📅 2023-12-08
 
 <https://github.com/XingangPan/SCNN> ⭐ 863 | 🐛 72 | 🌐 Lua | 📅 2026-01-16
 
@@ -294,4 +294,4 @@ If you have any suggestions about papers, feel free to mail me :)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
