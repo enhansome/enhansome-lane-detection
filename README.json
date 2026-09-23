@@ -46,7 +46,7 @@
                 "open_issues": 18,
                 "owner": "JMoonr",
                 "repo": "LATR",
-                "stars": 245,
+                "stars": 244,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:23:03.287Z"
@@ -1340,7 +1340,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T01:15:25.195Z",
+    "last_updated": "2026-09-23T00:58:32.203Z",
     "original_repository_info": {
       "archived": false,
       "description": "A paper list of lane detection.",
@@ -1352,7 +1352,7 @@
       "open_issues": 18,
       "owner": "amusi",
       "repo": "awesome-lane-detection",
-      "stars": 3065,
+      "stars": 3066,
       "topics": [
         "lane-detection",
         "lane-lines-detection"

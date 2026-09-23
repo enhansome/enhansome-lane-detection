@@ -28,7 +28,7 @@ Lane Detection
 
 [Recursive Video Lane Detection](https://arxiv.org/abs/2308.11106)  [github](https://github.com/dongkwonjin/RVLD) ⭐ 91 | 🐛 17 | 🌐 Python | 📅 2023-11-08  ICCV 2023
 
-[LATR: 3D Lane Detection from Monocular Images with Transformer](https://arxiv.org/abs/2308.04583)  [github](https://github.com/JMoonr/LATR) ⭐ 245 | 🐛 18 | 🌐 Python | 📅 2024-12-08  ICCV 2023
+[LATR: 3D Lane Detection from Monocular Images with Transformer](https://arxiv.org/abs/2308.04583)  [github](https://github.com/JMoonr/LATR) ⭐ 244 | 🐛 18 | 🌐 Python | 📅 2024-12-08  ICCV 2023
 
 [GroupLane: End-to-End 3D Lane Detection with Channel-wise Grouping](https://arxiv.org/abs/2307.09472)
 
@@ -290,8 +290,8 @@ Lane Detection
 If you have any suggestions about papers, feel free to mail me :)
 
 * [blog](http://www.cverblog.cn/)
-* [pull](https://github.com/amusi/awesome-lane-detection/pulls) ⭐ 3,065 | 🐛 18 | 📅 2024-08-16
+* [pull](https://github.com/amusi/awesome-lane-detection/pulls) ⭐ 3,066 | 🐛 18 | 📅 2024-08-16
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
