@@ -232,7 +232,7 @@ Lane Detection
 
 <https://github.com/wvangansbeke/LaneDetection_End2End> ⭐ 663 | 🐛 10 | 🌐 Python | 📅 2020-05-14
 
-<https://github.com/georgesung/advanced_lane_detection> ⭐ 558 | 🐛 14 | 🌐 Python | 📅 2020-12-12
+<https://github.com/georgesung/advanced_lane_detection> ⭐ 557 | 🐛 14 | 🌐 Python | 📅 2020-12-12
 
 <https://github.com/MaybeShewill-CV/lanenet-lane-detection> ⭐ 2,566 | 🐛 4 | 🌐 Python | 📅 2023-12-08
 
@@ -294,4 +294,4 @@ If you have any suggestions about papers, feel free to mail me :)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
