@@ -88,7 +88,7 @@ Lane Detection
 
 [A Hybrid Spatial-temporal Sequence-to-one Neural Network Model for Lane Detection](https://arxiv.org/abs/2110.04079)
 
-[YOLOP: You Only Look Once for Panoptic Driving Perception](https://arxiv.org/abs/2108.11250)  [github](https://github.com/hustvl/YOLOP) ⭐ 2,243 | 🐛 156 | 🌐 Python | 📅 2023-10-20
+[YOLOP: You Only Look Once for Panoptic Driving Perception](https://arxiv.org/abs/2108.11250)  [github](https://github.com/hustvl/YOLOP) ⭐ 2,244 | 🐛 156 | 🌐 Python | 📅 2023-10-20
 
 [VIL-100: A New Dataset and A Baseline Model for Video Instance Lane Detection](https://arxiv.org/abs/2108.08482)  [github](https://github.com/yujun0-0/MMA-Net) ⭐ 104 | 🐛 2 | 🌐 Makefile | 📅 2024-02-01  [dataset](https://github.com/yujun0-0/MMA-Net) ⭐ 104 | 🐛 2 | 🌐 Makefile | 📅 2024-02-01  ICCV 2021
 
@@ -232,7 +232,7 @@ Lane Detection
 
 <https://github.com/wvangansbeke/LaneDetection_End2End> ⭐ 663 | 🐛 10 | 🌐 Python | 📅 2020-05-14
 
-<https://github.com/georgesung/advanced_lane_detection> ⭐ 557 | 🐛 14 | 🌐 Python | 📅 2020-12-12
+<https://github.com/georgesung/advanced_lane_detection> ⭐ 558 | 🐛 14 | 🌐 Python | 📅 2020-12-12
 
 <https://github.com/MaybeShewill-CV/lanenet-lane-detection> ⭐ 2,567 | 🐛 4 | 🌐 Python | 📅 2023-12-08
 
@@ -271,7 +271,7 @@ Lane Detection
 * [3D Lane Synthetic Dataset](https://github.com/yuliangguo/3D_Lane_Synthetic_Dataset) ⭐ 147 | 🐛 10 | 🌐 Python | 📅 2026-03-13
 * [VIL-100](https://github.com/yujun0-0/MMA-Net) ⭐ 104 | 🐛 2 | 🌐 Makefile | 📅 2024-02-01  ICCV 2021
 * [OpenLane-V](https://github.com/dongkwonjin/RVLD) ⭐ 91 | 🐛 17 | 🌐 Python | 📅 2023-11-08
-* [Jiqing Expressway](https://github.com/vonsj0210/Multi-Lane-Detection-Dataset-with-Ground-Truth) ⭐ 49 | 🐛 5 | 📅 2019-12-19
+* [Jiqing Expressway](https://github.com/vonsj0210/Multi-Lane-Detection-Dataset-with-Ground-Truth) ⭐ 50 | 🐛 5 | 📅 2019-12-19
 * [OpenLane: 3D lane datasets](https://github.com/OpenPerceptionX/OpenLane) ⭐ 13 | 🐛 0 | 📅 2023-02-07  ECCV 2022 Oral
 * [CULane](https://xingangpan.github.io/projects/CULane.html)
 * [BDD100K](http://bdd-data.berkeley.edu/)
@@ -294,4 +294,4 @@ If you have any suggestions about papers, feel free to mail me :)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._

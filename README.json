@@ -306,7 +306,7 @@
                 "open_issues": 156,
                 "owner": "hustvl",
                 "repo": "YOLOP",
-                "stars": 2243,
+                "stars": 2244,
                 "topics": [
                   "autonomous-driving",
                   "drivable-area-segmentation",
@@ -942,7 +942,7 @@
             "open_issues": 14,
             "owner": "georgesung",
             "repo": "advanced_lane_detection",
-            "stars": 557,
+            "stars": 558,
             "topics": [
               "camera-calibration",
               "computer-vision",
@@ -1304,7 +1304,7 @@
             "open_issues": 5,
             "owner": "vonsj0210",
             "repo": "Multi-Lane-Detection-Dataset-with-Ground-Truth",
-            "stars": 49,
+            "stars": 50,
             "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.287Z"
@@ -1340,7 +1340,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T02:20:29.252Z",
+    "last_updated": "2026-09-30T01:38:53.051Z",
     "original_repository_info": {
       "archived": false,
       "description": "A paper list of lane detection.",
