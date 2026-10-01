@@ -306,7 +306,7 @@
                 "open_issues": 156,
                 "owner": "hustvl",
                 "repo": "YOLOP",
-                "stars": 2244,
+                "stars": 2245,
                 "topics": [
                   "autonomous-driving",
                   "drivable-area-segmentation",
@@ -655,7 +655,7 @@
                 "open_issues": 6,
                 "owner": "cardwing",
                 "repo": "Codes-for-Lane-Detection",
-                "stars": 1073,
+                "stars": 1072,
                 "topics": [
                   "cnn",
                   "deep-learning",
@@ -683,7 +683,7 @@
                 "open_issues": 6,
                 "owner": "cardwing",
                 "repo": "Codes-for-Lane-Detection",
-                "stars": 1073,
+                "stars": 1072,
                 "topics": [
                   "cnn",
                   "deep-learning",
@@ -860,7 +860,7 @@
             "open_issues": 6,
             "owner": "cardwing",
             "repo": "Codes-for-Lane-Detection",
-            "stars": 1073,
+            "stars": 1072,
             "topics": [
               "cnn",
               "deep-learning",
@@ -1340,7 +1340,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T01:38:53.051Z",
+    "last_updated": "2026-10-01T01:36:58.542Z",
     "original_repository_info": {
       "archived": false,
       "description": "A paper list of lane detection.",

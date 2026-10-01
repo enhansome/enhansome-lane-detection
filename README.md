@@ -88,7 +88,7 @@ Lane Detection
 
 [A Hybrid Spatial-temporal Sequence-to-one Neural Network Model for Lane Detection](https://arxiv.org/abs/2110.04079)
 
-[YOLOP: You Only Look Once for Panoptic Driving Perception](https://arxiv.org/abs/2108.11250)  [github](https://github.com/hustvl/YOLOP) ⭐ 2,244 | 🐛 156 | 🌐 Python | 📅 2023-10-20
+[YOLOP: You Only Look Once for Panoptic Driving Perception](https://arxiv.org/abs/2108.11250)  [github](https://github.com/hustvl/YOLOP) ⭐ 2,245 | 🐛 156 | 🌐 Python | 📅 2023-10-20
 
 [VIL-100: A New Dataset and A Baseline Model for Video Instance Lane Detection](https://arxiv.org/abs/2108.08482)  [github](https://github.com/yujun0-0/MMA-Net) ⭐ 104 | 🐛 2 | 🌐 Makefile | 📅 2024-02-01  [dataset](https://github.com/yujun0-0/MMA-Net) ⭐ 104 | 🐛 2 | 🌐 Makefile | 📅 2024-02-01  ICCV 2021
 
@@ -162,7 +162,7 @@ Lane Detection
 
 [Dynamic Approach for Lane Detection using Google Street View and CNN](https://arxiv.org/abs/1909.00798)  IEEE TENCON 2019
 
-[Learning Lightweight Lane Detection CNNs by Self Attention Distillation](https://arxiv.org/abs/1908.00821)  [github](https://github.com/cardwing/Codes-for-Lane-Detection) ⭐ 1,073 | 🐛 6 | 🌐 Lua | 📅 2022-06-21  ICCV 2019
+[Learning Lightweight Lane Detection CNNs by Self Attention Distillation](https://arxiv.org/abs/1908.00821)  [github](https://github.com/cardwing/Codes-for-Lane-Detection) ⭐ 1,072 | 🐛 6 | 🌐 Lua | 📅 2022-06-21  ICCV 2019
 
 [Multi-Class Lane Semantic Segmentation using Efficient Convolutional Networks](https://arxiv.org/abs/1907.09438)  MMSP 2019
 
@@ -172,7 +172,7 @@ Lane Detection
 
 [FastDraw: Addressing the Long Tail of Lane Detection by Adapting a Sequential Prediction Network](https://arxiv.org/abs/1905.04354)  CVPR 2019
 
-[Agnostic Lane Detection](https://arxiv.org/abs/1905.03704)  [github](https://github.com/cardwing/Codes-for-Lane-Detection) ⭐ 1,073 | 🐛 6 | 🌐 Lua | 📅 2022-06-21
+[Agnostic Lane Detection](https://arxiv.org/abs/1905.03704)  [github](https://github.com/cardwing/Codes-for-Lane-Detection) ⭐ 1,072 | 🐛 6 | 🌐 Lua | 📅 2022-06-21
 
 [Deep Multi-Sensor Lane Detection](https://arxiv.org/abs/1905.01555) IROS2018
 
@@ -226,7 +226,7 @@ Lane Detection
 
 [Lane Detection（Paper with Code）](https://paperswithcode.com/task/lane-detection)
 
-<https://github.com/cardwing/Codes-for-Lane-Detection> ⭐ 1,073 | 🐛 6 | 🌐 Lua | 📅 2022-06-21
+<https://github.com/cardwing/Codes-for-Lane-Detection> ⭐ 1,072 | 🐛 6 | 🌐 Lua | 📅 2022-06-21
 
 <https://github.com/karstenBehrendt/unsupervised_llamas> ⭐ 108 | 🐛 0 | 🌐 Python | 📅 2022-02-24
 
@@ -294,4 +294,4 @@ If you have any suggestions about papers, feel free to mail me :)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
