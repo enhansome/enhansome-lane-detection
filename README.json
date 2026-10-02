@@ -258,7 +258,7 @@
                 "open_issues": 46,
                 "owner": "voldemortX",
                 "repo": "pytorch-auto-drive",
-                "stars": 952,
+                "stars": 953,
                 "topics": [
                   "apex",
                   "cityscapes",
@@ -306,7 +306,7 @@
                 "open_issues": 156,
                 "owner": "hustvl",
                 "repo": "YOLOP",
-                "stars": 2245,
+                "stars": 2246,
                 "topics": [
                   "autonomous-driving",
                   "drivable-area-segmentation",
@@ -533,7 +533,7 @@
                 "open_issues": 2,
                 "owner": "lucastabelini",
                 "repo": "PolyLaneNet",
-                "stars": 315,
+                "stars": 316,
                 "topics": [
                   "deep-learning",
                   "lane-detection",
@@ -778,7 +778,7 @@
                 "open_issues": 4,
                 "owner": "MaybeShewill-CV",
                 "repo": "lanenet-lane-detection",
-                "stars": 2567,
+                "stars": 2568,
                 "topics": [
                   "deep-learning",
                   "instance-segmentation",
@@ -819,7 +819,7 @@
             "open_issues": 46,
             "owner": "voldemortX",
             "repo": "pytorch-auto-drive",
-            "stars": 952,
+            "stars": 953,
             "topics": [
               "apex",
               "cityscapes",
@@ -974,7 +974,7 @@
             "open_issues": 4,
             "owner": "MaybeShewill-CV",
             "repo": "lanenet-lane-detection",
-            "stars": 2567,
+            "stars": 2568,
             "topics": [
               "deep-learning",
               "instance-segmentation",
@@ -1340,7 +1340,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T01:36:58.542Z",
+    "last_updated": "2026-10-02T01:50:08.296Z",
     "original_repository_info": {
       "archived": false,
       "description": "A paper list of lane detection.",
@@ -1352,7 +1352,7 @@
       "open_issues": 18,
       "owner": "amusi",
       "repo": "awesome-lane-detection",
-      "stars": 3066,
+      "stars": 3067,
       "topics": [
         "lane-detection",
         "lane-lines-detection"
