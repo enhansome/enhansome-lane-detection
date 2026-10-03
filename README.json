@@ -161,7 +161,7 @@
                 "open_issues": 152,
                 "owner": "cfzd",
                 "repo": "Ultra-Fast-Lane-Detection-v2",
-                "stars": 854,
+                "stars": 855,
                 "topics": [
                   "deep-learning",
                   "lane-detection",
@@ -306,7 +306,7 @@
                 "open_issues": 156,
                 "owner": "hustvl",
                 "repo": "YOLOP",
-                "stars": 2246,
+                "stars": 2247,
                 "topics": [
                   "autonomous-driving",
                   "drivable-area-segmentation",
@@ -381,7 +381,7 @@
                 "open_issues": 14,
                 "owner": "sel118",
                 "repo": "LaneAF",
-                "stars": 198,
+                "stars": 199,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:23:03.287Z"
@@ -503,7 +503,7 @@
                 "open_issues": 97,
                 "owner": "cfzd",
                 "repo": "Ultra-Fast-Lane-Detection",
-                "stars": 2060,
+                "stars": 2061,
                 "topics": [
                   "autonomous-driving",
                   "autonomous-vehicles",
@@ -742,7 +742,7 @@
                 "open_issues": 10,
                 "owner": "wvangansbeke",
                 "repo": "LaneDetection_End2End",
-                "stars": 663,
+                "stars": 664,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -913,7 +913,7 @@
             "open_issues": 10,
             "owner": "wvangansbeke",
             "repo": "LaneDetection_End2End",
-            "stars": 663,
+            "stars": 664,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -1340,7 +1340,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T01:50:08.296Z",
+    "last_updated": "2026-10-03T01:29:28.851Z",
     "original_repository_info": {
       "archived": false,
       "description": "A paper list of lane detection.",
