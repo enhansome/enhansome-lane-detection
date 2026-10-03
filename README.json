@@ -99,7 +99,7 @@
             {
               "node_type": "item",
               "title": "End to End Lane detection with One-to-Several Transformer",
-              "description": "github",
+              "description": "zkyseu/O2SFormer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -127,7 +127,7 @@
             {
               "node_type": "item",
               "title": "PriorLane: A Prior Knowledge Enhanced Lane Detection Approach Based on Transformer",
-              "description": "github",
+              "description": "vincentqqb/PriorLane",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -293,7 +293,7 @@
             {
               "node_type": "item",
               "title": "YOLOP: You Only Look Once for Panoptic Driving Perception",
-              "description": "github",
+              "description": "hustvl/YOLOP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -368,7 +368,7 @@
             {
               "node_type": "item",
               "title": "LaneAF: Robust Multi-Lane Detection with Affinity Fields",
-              "description": "github",
+              "description": "sel118/LaneAF",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -417,7 +417,7 @@
             {
               "node_type": "item",
               "title": "Keep your Eyes on the Lane: Attention-guided Lane Detection",
-              "description": "github",
+              "description": "lucastabelini/LaneATT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -520,7 +520,7 @@
             {
               "node_type": "item",
               "title": "PolyLaneNet: Lane Estimation via Deep Polynomial Regression",
-              "description": "github",
+              "description": "lucastabelini/PolyLaneNet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -593,7 +593,7 @@
             {
               "node_type": "item",
               "title": "FusionLane: Multi-Sensor Fusion for Lane Marking Semantic Segmentation Using Deep Neural Networks",
-              "description": "github",
+              "description": "rolandying/FusionLane",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -614,7 +614,7 @@
             {
               "node_type": "item",
               "title": "PINet：Key Points Estimation and Point Instance Segmentation Approach for Lane Detection",
-              "description": "github",
+              "description": "koyeongmin/PINet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -670,7 +670,7 @@
             {
               "node_type": "item",
               "title": "Agnostic Lane Detection",
-              "description": "github",
+              "description": "cardwing/Codes-for-Lane-Detection",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -729,7 +729,7 @@
             {
               "node_type": "item",
               "title": "End-to-end Lane Detection through Differentiable Least-Squares Fitting",
-              "description": "github",
+              "description": "wvangansbeke/LaneDetection_End2End",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -806,7 +806,7 @@
         {
           "node_type": "item",
           "title": "voldemortX/pytorch-auto-drive",
-          "description": null,
+          "description": "voldemortX/pytorch-auto-drive",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -847,7 +847,7 @@
         {
           "node_type": "item",
           "title": "cardwing/Codes-for-Lane-Detection",
-          "description": null,
+          "description": "cardwing/Codes-for-Lane-Detection",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -875,7 +875,7 @@
         {
           "node_type": "item",
           "title": "karstenBehrendt/unsupervised_llamas",
-          "description": null,
+          "description": "karstenBehrendt/unsupervised_llamas",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -900,7 +900,7 @@
         {
           "node_type": "item",
           "title": "wvangansbeke/LaneDetection_End2End",
-          "description": null,
+          "description": "wvangansbeke/LaneDetection_End2End",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -929,7 +929,7 @@
         {
           "node_type": "item",
           "title": "georgesung/advanced_lane_detection",
-          "description": null,
+          "description": "georgesung/advanced_lane_detection",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -961,7 +961,7 @@
         {
           "node_type": "item",
           "title": "MaybeShewill-CV/lanenet-lane-detection",
-          "description": null,
+          "description": "MaybeShewill-CV/lanenet-lane-detection",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -991,7 +991,7 @@
         {
           "node_type": "item",
           "title": "XingangPan/SCNN",
-          "description": null,
+          "description": "XingangPan/SCNN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1012,7 +1012,7 @@
         {
           "node_type": "item",
           "title": "davidawad/Lane-Detection",
-          "description": null,
+          "description": "davidawad/Lane-Detection",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1045,7 +1045,7 @@
         {
           "node_type": "item",
           "title": "yang1688899/CarND-Advanced-Lane-Lines",
-          "description": null,
+          "description": "yang1688899/CarND-Advanced-Lane-Lines",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1066,7 +1066,7 @@
         {
           "node_type": "item",
           "title": "SeokjuLee/VPGNet",
-          "description": null,
+          "description": "SeokjuLee/VPGNet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1115,7 +1115,7 @@
         {
           "node_type": "item",
           "title": "galenballew/SDC-Lane-and-Vehicle-Detection-Tracking",
-          "description": null,
+          "description": "galenballew/SDC-Lane-and-Vehicle-Detection-Tracking",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1148,7 +1148,7 @@
         {
           "node_type": "item",
           "title": "shawshany/Advance_LaneFinding",
-          "description": null,
+          "description": "shawshany/Advance_LaneFinding",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1175,7 +1175,7 @@
         {
           "node_type": "item",
           "title": "TuSimple",
-          "description": null,
+          "description": "TuSimple/tusimple-benchmark",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1196,7 +1196,7 @@
         {
           "node_type": "item",
           "title": "VPGNet",
-          "description": null,
+          "description": "SeokjuLee/VPGNet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1224,7 +1224,7 @@
         {
           "node_type": "item",
           "title": "3D Lane Synthetic Dataset",
-          "description": null,
+          "description": "yuliangguo/3D_Lane_Synthetic_Dataset",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1266,7 +1266,7 @@
         {
           "node_type": "item",
           "title": "OpenLane-V",
-          "description": null,
+          "description": "dongkwonjin/RVLD",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1291,7 +1291,7 @@
         {
           "node_type": "item",
           "title": "Jiqing Expressway",
-          "description": null,
+          "description": "vonsj0210/Multi-Lane-Detection-Dataset-with-Ground-Truth",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1340,7 +1340,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T01:29:28.851Z",
+    "last_updated": "2026-10-03T04:57:15.033Z",
     "original_repository_info": {
       "archived": false,
       "description": "A paper list of lane detection.",
