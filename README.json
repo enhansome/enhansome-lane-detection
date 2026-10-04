@@ -258,7 +258,7 @@
                 "open_issues": 46,
                 "owner": "voldemortX",
                 "repo": "pytorch-auto-drive",
-                "stars": 953,
+                "stars": 954,
                 "topics": [
                   "apex",
                   "cityscapes",
@@ -819,7 +819,7 @@
             "open_issues": 46,
             "owner": "voldemortX",
             "repo": "pytorch-auto-drive",
-            "stars": 953,
+            "stars": 954,
             "topics": [
               "apex",
               "cityscapes",
@@ -942,7 +942,7 @@
             "open_issues": 14,
             "owner": "georgesung",
             "repo": "advanced_lane_detection",
-            "stars": 558,
+            "stars": 559,
             "topics": [
               "camera-calibration",
               "computer-vision",
@@ -1004,7 +1004,7 @@
             "open_issues": 72,
             "owner": "XingangPan",
             "repo": "SCNN",
-            "stars": 863,
+            "stars": 864,
             "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.287Z"
@@ -1058,7 +1058,7 @@
             "open_issues": 0,
             "owner": "yang1688899",
             "repo": "CarND-Advanced-Lane-Lines",
-            "stars": 346,
+            "stars": 347,
             "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.287Z"
@@ -1340,7 +1340,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:57:15.033Z",
+    "last_updated": "2026-10-04T02:01:21.045Z",
     "original_repository_info": {
       "archived": false,
       "description": "A paper list of lane detection.",

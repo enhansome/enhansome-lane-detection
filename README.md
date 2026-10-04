@@ -72,7 +72,7 @@ Lane Detection
 
 [CLRNet: Cross Layer Refinement Network for Lane Detection](https://arxiv.org/abs/2203.10350)  CVPR 2022
 
-[Rethinking Efficient Lane Detection via Curve Modeling](https://arxiv.org/abs/2203.02431)  [github](https://github.com/voldemortX/pytorch-auto-drive) ⭐ 953 | 🐛 46 | 🌐 Python | 📅 2023-10-04  CVPR 2022
+[Rethinking Efficient Lane Detection via Curve Modeling](https://arxiv.org/abs/2203.02431)  [github](https://github.com/voldemortX/pytorch-auto-drive) ⭐ 954 | 🐛 46 | 🌐 Python | 📅 2023-10-04  CVPR 2022
 
 [Lane detection with Position Embedding](https://arxiv.org/abs/2203.12301)
 
@@ -222,7 +222,7 @@ Lane Detection
 
 # Code
 
-<https://github.com/voldemortX/pytorch-auto-drive> ⭐ 953 | 🐛 46 | 🌐 Python | 📅 2023-10-04
+<https://github.com/voldemortX/pytorch-auto-drive> ⭐ 954 | 🐛 46 | 🌐 Python | 📅 2023-10-04
 
 [Lane Detection（Paper with Code）](https://paperswithcode.com/task/lane-detection)
 
@@ -232,15 +232,15 @@ Lane Detection
 
 <https://github.com/wvangansbeke/LaneDetection_End2End> ⭐ 664 | 🐛 10 | 🌐 Python | 📅 2020-05-14
 
-<https://github.com/georgesung/advanced_lane_detection> ⭐ 558 | 🐛 14 | 🌐 Python | 📅 2020-12-12
+<https://github.com/georgesung/advanced_lane_detection> ⭐ 559 | 🐛 14 | 🌐 Python | 📅 2020-12-12
 
 <https://github.com/MaybeShewill-CV/lanenet-lane-detection> ⭐ 2,568 | 🐛 4 | 🌐 Python | 📅 2023-12-08
 
-<https://github.com/XingangPan/SCNN> ⭐ 863 | 🐛 72 | 🌐 Lua | 📅 2026-01-16
+<https://github.com/XingangPan/SCNN> ⭐ 864 | 🐛 72 | 🌐 Lua | 📅 2026-01-16
 
 <https://github.com/davidawad/Lane-Detection> ⭐ 78 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2017-05-07
 
-<https://github.com/yang1688899/CarND-Advanced-Lane-Lines> ⭐ 346 | 🐛 0 | 🌐 Python | 📅 2018-08-13
+<https://github.com/yang1688899/CarND-Advanced-Lane-Lines> ⭐ 347 | 🐛 0 | 🌐 Python | 📅 2018-08-13
 
 <https://github.com/SeokjuLee/VPGNet> ⭐ 503 | 🐛 35 | 🌐 Jupyter Notebook | 📅 2020-04-14
 
@@ -294,4 +294,4 @@ If you have any suggestions about papers, feel free to mail me :)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
