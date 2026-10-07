@@ -144,7 +144,7 @@ Lane Detection
 
 [Inter-Region Affinity Distillation for Road Marking Segmentation](https://arxiv.org/abs/2004.05304)  [github](https://github.com/cardwing/Codes-for-IntRA-KD) ⭐ 117 | 🐛 17 | 🌐 Python | 📅 2020-04-14  CVPR 2020
 
-[Gen-LaneNet: A Generalized and Scalable Approach for 3D Lane Detection](https://arxiv.org/abs/2003.10656)  [github](https://github.com/yuliangguo/Pytorch_Generalized_3D_Lane_Detection) ⭐ 330 | 🐛 14 | 🌐 Python | 📅 2022-08-02 [Datasets](https://github.com/yuliangguo/3D_Lane_Synthetic_Dataset) ⭐ 147 | 🐛 10 | 🌐 Python | 📅 2026-03-13  ECCV 2020
+[Gen-LaneNet: A Generalized and Scalable Approach for 3D Lane Detection](https://arxiv.org/abs/2003.10656)  [github](https://github.com/yuliangguo/Pytorch_Generalized_3D_Lane_Detection) ⭐ 331 | 🐛 14 | 🌐 Python | 📅 2022-08-02 [Datasets](https://github.com/yuliangguo/3D_Lane_Synthetic_Dataset) ⭐ 147 | 🐛 10 | 🌐 Python | 📅 2026-03-13  ECCV 2020
 
 [Detecting Lane and Road Markings at A Distance with Perspective Transformer Layers](https://arxiv.org/abs/2003.08550)
 
@@ -294,4 +294,4 @@ If you have any suggestions about papers, feel free to mail me :)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
