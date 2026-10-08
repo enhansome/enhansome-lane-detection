@@ -306,7 +306,7 @@
                 "open_issues": 156,
                 "owner": "hustvl",
                 "repo": "YOLOP",
-                "stars": 2247,
+                "stars": 2248,
                 "topics": [
                   "autonomous-driving",
                   "drivable-area-segmentation",
@@ -1340,7 +1340,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T01:50:38.256Z",
+    "last_updated": "2026-10-08T02:18:09.541Z",
     "original_repository_info": {
       "archived": false,
       "description": "A paper list of lane detection.",
