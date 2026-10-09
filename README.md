@@ -180,7 +180,7 @@ Lane Detection
 
 [Robust Lane Detection from Continuous Driving Scenes Using Deep Neural Networks](https://arxiv.org/abs/1903.02193)
 
-[End-to-end Lane Detection through Differentiable Least-Squares Fitting](https://arxiv.org/abs/1902.00293)  [github](https://github.com/wvangansbeke/LaneDetection_End2End) ⭐ 664 | 🐛 10 | 🌐 Python | 📅 2020-05-14
+[End-to-end Lane Detection through Differentiable Least-Squares Fitting](https://arxiv.org/abs/1902.00293)  [github](https://github.com/wvangansbeke/LaneDetection_End2End) ⭐ 663 | 🐛 10 | 🌐 Python | 📅 2020-05-14
 
 ## 2018
 
@@ -230,7 +230,7 @@ Lane Detection
 
 <https://github.com/karstenBehrendt/unsupervised_llamas> ⭐ 108 | 🐛 0 | 🌐 Python | 📅 2022-02-24
 
-<https://github.com/wvangansbeke/LaneDetection_End2End> ⭐ 664 | 🐛 10 | 🌐 Python | 📅 2020-05-14
+<https://github.com/wvangansbeke/LaneDetection_End2End> ⭐ 663 | 🐛 10 | 🌐 Python | 📅 2020-05-14
 
 <https://github.com/georgesung/advanced_lane_detection> ⭐ 559 | 🐛 14 | 🌐 Python | 📅 2020-12-12
 
@@ -294,4 +294,4 @@ If you have any suggestions about papers, feel free to mail me :)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._

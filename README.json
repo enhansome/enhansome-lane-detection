@@ -742,7 +742,7 @@
                 "open_issues": 10,
                 "owner": "wvangansbeke",
                 "repo": "LaneDetection_End2End",
-                "stars": 664,
+                "stars": 663,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -913,7 +913,7 @@
             "open_issues": 10,
             "owner": "wvangansbeke",
             "repo": "LaneDetection_End2End",
-            "stars": 664,
+            "stars": 663,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -1340,7 +1340,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T02:18:09.541Z",
+    "last_updated": "2026-10-09T02:35:49.878Z",
     "original_repository_info": {
       "archived": false,
       "description": "A paper list of lane detection.",
