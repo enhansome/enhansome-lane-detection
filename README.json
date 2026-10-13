@@ -306,7 +306,7 @@
                 "open_issues": 156,
                 "owner": "hustvl",
                 "repo": "YOLOP",
-                "stars": 2248,
+                "stars": 2249,
                 "topics": [
                   "autonomous-driving",
                   "drivable-area-segmentation",
@@ -1304,7 +1304,7 @@
             "open_issues": 5,
             "owner": "vonsj0210",
             "repo": "Multi-Lane-Detection-Dataset-with-Ground-Truth",
-            "stars": 50,
+            "stars": 51,
             "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.287Z"
@@ -1340,7 +1340,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T01:50:12.722Z",
+    "last_updated": "2026-10-13T03:13:29.559Z",
     "original_repository_info": {
       "archived": false,
       "description": "A paper list of lane detection.",
