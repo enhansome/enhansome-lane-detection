@@ -161,7 +161,7 @@
                 "open_issues": 152,
                 "owner": "cfzd",
                 "repo": "Ultra-Fast-Lane-Detection-v2",
-                "stars": 856,
+                "stars": 858,
                 "topics": [
                   "deep-learning",
                   "lane-detection",
@@ -306,7 +306,7 @@
                 "open_issues": 156,
                 "owner": "hustvl",
                 "repo": "YOLOP",
-                "stars": 2250,
+                "stars": 2249,
                 "topics": [
                   "autonomous-driving",
                   "drivable-area-segmentation",
@@ -627,7 +627,7 @@
                 "open_issues": 30,
                 "owner": "koyeongmin",
                 "repo": "PINet",
-                "stars": 208,
+                "stars": 209,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:23:03.287Z"
@@ -1185,7 +1185,7 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2021-05-28T18:08:53Z",
-            "open_issues": 31,
+            "open_issues": 32,
             "owner": "TuSimple",
             "repo": "tusimple-benchmark",
             "stars": 594,
@@ -1340,7 +1340,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T00:49:42.788Z",
+    "last_updated": "2026-10-17T00:48:39.438Z",
     "original_repository_info": {
       "archived": false,
       "description": "A paper list of lane detection.",
