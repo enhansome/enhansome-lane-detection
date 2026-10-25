@@ -161,7 +161,7 @@
                 "open_issues": 152,
                 "owner": "cfzd",
                 "repo": "Ultra-Fast-Lane-Detection-v2",
-                "stars": 858,
+                "stars": 859,
                 "topics": [
                   "deep-learning",
                   "lane-detection",
@@ -355,7 +355,7 @@
                 "open_issues": 17,
                 "owner": "lucastabelini",
                 "repo": "LaneATT",
-                "stars": 700,
+                "stars": 699,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -430,7 +430,7 @@
                 "open_issues": 17,
                 "owner": "lucastabelini",
                 "repo": "LaneATT",
-                "stars": 700,
+                "stars": 699,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -503,7 +503,7 @@
                 "open_issues": 97,
                 "owner": "cfzd",
                 "repo": "Ultra-Fast-Lane-Detection",
-                "stars": 2066,
+                "stars": 2067,
                 "topics": [
                   "autonomous-driving",
                   "autonomous-vehicles",
@@ -1340,7 +1340,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T01:11:46.585Z",
+    "last_updated": "2026-10-25T00:35:18.599Z",
     "original_repository_info": {
       "archived": false,
       "description": "A paper list of lane detection.",
