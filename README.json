@@ -88,7 +88,7 @@
                 "open_issues": 20,
                 "owner": "tusen-ai",
                 "repo": "Anchor3DLane",
-                "stars": 192,
+                "stars": 193,
                 "topics": [
                   "3d-lane-detection",
                   "lane-detection"
@@ -355,7 +355,7 @@
                 "open_issues": 17,
                 "owner": "lucastabelini",
                 "repo": "LaneATT",
-                "stars": 699,
+                "stars": 700,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -430,7 +430,7 @@
                 "open_issues": 17,
                 "owner": "lucastabelini",
                 "repo": "LaneATT",
-                "stars": 699,
+                "stars": 700,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -503,7 +503,7 @@
                 "open_issues": 97,
                 "owner": "cfzd",
                 "repo": "Ultra-Fast-Lane-Detection",
-                "stars": 2068,
+                "stars": 2069,
                 "topics": [
                   "autonomous-driving",
                   "autonomous-vehicles",
@@ -655,7 +655,7 @@
                 "open_issues": 6,
                 "owner": "cardwing",
                 "repo": "Codes-for-Lane-Detection",
-                "stars": 1073,
+                "stars": 1074,
                 "topics": [
                   "cnn",
                   "deep-learning",
@@ -683,7 +683,7 @@
                 "open_issues": 6,
                 "owner": "cardwing",
                 "repo": "Codes-for-Lane-Detection",
-                "stars": 1073,
+                "stars": 1074,
                 "topics": [
                   "cnn",
                   "deep-learning",
@@ -778,7 +778,7 @@
                 "open_issues": 4,
                 "owner": "MaybeShewill-CV",
                 "repo": "lanenet-lane-detection",
-                "stars": 2572,
+                "stars": 2573,
                 "topics": [
                   "deep-learning",
                   "instance-segmentation",
@@ -860,7 +860,7 @@
             "open_issues": 6,
             "owner": "cardwing",
             "repo": "Codes-for-Lane-Detection",
-            "stars": 1073,
+            "stars": 1074,
             "topics": [
               "cnn",
               "deep-learning",
@@ -974,7 +974,7 @@
             "open_issues": 4,
             "owner": "MaybeShewill-CV",
             "repo": "lanenet-lane-detection",
-            "stars": 2572,
+            "stars": 2573,
             "topics": [
               "deep-learning",
               "instance-segmentation",
@@ -1340,7 +1340,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T02:10:33.104Z",
+    "last_updated": "2026-10-31T01:52:50.109Z",
     "original_repository_info": {
       "archived": false,
       "description": "A paper list of lane detection.",

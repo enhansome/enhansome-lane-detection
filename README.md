@@ -36,7 +36,7 @@ Lane Detection
 
 [BEV-LaneDet: a Simple and Effective 3D Lane Detection Baseline](https://arxiv.org/abs/2210.06006)  [github](https://github.com/gigo-team/bev_lane_det) ⭐ 235 | 🐛 26 | 📅 2023-05-20  CVPR 2023
 
-[Anchor3DLane: Learning to Regress 3D Anchors for Monocular 3D Lane Detection](https://arxiv.org/abs/2301.02371)  [github](https://github.com/tusen-ai/Anchor3DLane) ⭐ 192 | 🐛 20 | 🌐 Python | 📅 2025-06-27  CVPR 2023
+[Anchor3DLane: Learning to Regress 3D Anchors for Monocular 3D Lane Detection](https://arxiv.org/abs/2301.02371)  [github](https://github.com/tusen-ai/Anchor3DLane) ⭐ 193 | 🐛 20 | 🌐 Python | 📅 2025-06-27  CVPR 2023
 
 [End to End Lane detection with One-to-Several Transformer](https://arxiv.org/abs/2305.00675)  [github](https://github.com/zkyseu/O2SFormer) ⭐ 46 | 🐛 1 | 🌐 Python | 📅 2024-02-28
 
@@ -100,7 +100,7 @@ Lane Detection
 
 [CondLaneNet: a Top-to-down Lane Detection Framework Based on Conditional Convolution](https://arxiv.org/abs/2105.05003)
 
-[Keep your Eyes on the Lane: Real-time Attention-guided Lane Detection](https://arxiv.org/abs/2010.12035)  [github](https://github.com/lucastabelini/LaneATT) ⭐ 699 | 🐛 17 | 🌐 Python | 📅 2022-10-09  CVPR 2021
+[Keep your Eyes on the Lane: Real-time Attention-guided Lane Detection](https://arxiv.org/abs/2010.12035)  [github](https://github.com/lucastabelini/LaneATT) ⭐ 700 | 🐛 17 | 🌐 Python | 📅 2022-10-09  CVPR 2021
 
 [YOLinO: Generic Single Shot Polyline Detection in Real Time](https://arxiv.org/abs/2103.14420)
 
@@ -116,7 +116,7 @@ Lane Detection
 
 [3D-LaneNet+: Anchor Free Lane Detection using a Semi-Local Representation](https://arxiv.org/abs/2011.01535)
 
-[Keep your Eyes on the Lane: Attention-guided Lane Detection](https://arxiv.org/abs/2010.12035)  [github](https://github.com/lucastabelini/LaneATT) ⭐ 699 | 🐛 17 | 🌐 Python | 📅 2022-10-09
+[Keep your Eyes on the Lane: Attention-guided Lane Detection](https://arxiv.org/abs/2010.12035)  [github](https://github.com/lucastabelini/LaneATT) ⭐ 700 | 🐛 17 | 🌐 Python | 📅 2022-10-09
 
 [RONELD: Robust Neural Network Output Enhancement for Active Lane Detection](https://arxiv.org/abs/2010.09548)  [github](https://github.com/czming/RONELD-Lane-Detection) ⭐ 26 | 🐛 0 | 🌐 Python | 📅 2021-01-12  ICPR 2020
 
@@ -138,7 +138,7 @@ Lane Detection
 
 [SUPER: A Novel Lane Detection System](https://arxiv.org/abs/2005.07277)
 
-[Ultra Fast Structure-aware Deep Lane Detection](https://arxiv.org/abs/2004.11757)  [github](https://github.com/cfzd/Ultra-Fast-Lane-Detection) ⭐ 2,068 | 🐛 97 | 🌐 Python | 📅 2022-12-14  ECCV 2020
+[Ultra Fast Structure-aware Deep Lane Detection](https://arxiv.org/abs/2004.11757)  [github](https://github.com/cfzd/Ultra-Fast-Lane-Detection) ⭐ 2,069 | 🐛 97 | 🌐 Python | 📅 2022-12-14  ECCV 2020
 
 [PolyLaneNet: Lane Estimation via Deep Polynomial Regression](https://github.com/lucastabelini/PolyLaneNet) ⭐ 316 | 🐛 2 | 🌐 Python | 📅 2021-05-31  [github](https://github.com/lucastabelini/PolyLaneNet) ⭐ 316 | 🐛 2 | 🌐 Python | 📅 2021-05-31
 
@@ -162,7 +162,7 @@ Lane Detection
 
 [Dynamic Approach for Lane Detection using Google Street View and CNN](https://arxiv.org/abs/1909.00798)  IEEE TENCON 2019
 
-[Learning Lightweight Lane Detection CNNs by Self Attention Distillation](https://arxiv.org/abs/1908.00821)  [github](https://github.com/cardwing/Codes-for-Lane-Detection) ⭐ 1,073 | 🐛 6 | 🌐 Lua | 📅 2022-06-21  ICCV 2019
+[Learning Lightweight Lane Detection CNNs by Self Attention Distillation](https://arxiv.org/abs/1908.00821)  [github](https://github.com/cardwing/Codes-for-Lane-Detection) ⭐ 1,074 | 🐛 6 | 🌐 Lua | 📅 2022-06-21  ICCV 2019
 
 [Multi-Class Lane Semantic Segmentation using Efficient Convolutional Networks](https://arxiv.org/abs/1907.09438)  MMSP 2019
 
@@ -172,7 +172,7 @@ Lane Detection
 
 [FastDraw: Addressing the Long Tail of Lane Detection by Adapting a Sequential Prediction Network](https://arxiv.org/abs/1905.04354)  CVPR 2019
 
-[Agnostic Lane Detection](https://arxiv.org/abs/1905.03704)  [github](https://github.com/cardwing/Codes-for-Lane-Detection) ⭐ 1,073 | 🐛 6 | 🌐 Lua | 📅 2022-06-21
+[Agnostic Lane Detection](https://arxiv.org/abs/1905.03704)  [github](https://github.com/cardwing/Codes-for-Lane-Detection) ⭐ 1,074 | 🐛 6 | 🌐 Lua | 📅 2022-06-21
 
 [Deep Multi-Sensor Lane Detection](https://arxiv.org/abs/1905.01555) IROS2018
 
@@ -202,7 +202,7 @@ Lane Detection
 
 [Real-time Lane Marker Detection Using Template Matching with RGB-D Camera](https://arxiv.org/abs/1806.01621)
 
-[Towards End-to-End Lane Detection: an Instance Segmentation Approach](https://arxiv.org/abs/1802.05591)    [论文解读](https://mp.weixin.qq.com/s/sGbSiCHpKjqKe9FP1ykjGw)  [github](https://github.com/MaybeShewill-CV/lanenet-lane-detection) ⭐ 2,572 | 🐛 4 | 🌐 Python | 📅 2023-12-08
+[Towards End-to-End Lane Detection: an Instance Segmentation Approach](https://arxiv.org/abs/1802.05591)    [论文解读](https://mp.weixin.qq.com/s/sGbSiCHpKjqKe9FP1ykjGw)  [github](https://github.com/MaybeShewill-CV/lanenet-lane-detection) ⭐ 2,573 | 🐛 4 | 🌐 Python | 📅 2023-12-08
 
 [Lane Detection and Classification for Forward Collision Warning System Based on Stereo Vision](https://ieeexplore.ieee.org/document/8353455/)
 
@@ -226,7 +226,7 @@ Lane Detection
 
 [Lane Detection（Paper with Code）](https://paperswithcode.com/task/lane-detection)
 
-<https://github.com/cardwing/Codes-for-Lane-Detection> ⭐ 1,073 | 🐛 6 | 🌐 Lua | 📅 2022-06-21
+<https://github.com/cardwing/Codes-for-Lane-Detection> ⭐ 1,074 | 🐛 6 | 🌐 Lua | 📅 2022-06-21
 
 <https://github.com/karstenBehrendt/unsupervised_llamas> ⭐ 108 | 🐛 0 | 🌐 Python | 📅 2022-02-24
 
@@ -234,7 +234,7 @@ Lane Detection
 
 <https://github.com/georgesung/advanced_lane_detection> ⭐ 559 | 🐛 14 | 🌐 Python | 📅 2020-12-12
 
-<https://github.com/MaybeShewill-CV/lanenet-lane-detection> ⭐ 2,572 | 🐛 4 | 🌐 Python | 📅 2023-12-08
+<https://github.com/MaybeShewill-CV/lanenet-lane-detection> ⭐ 2,573 | 🐛 4 | 🌐 Python | 📅 2023-12-08
 
 <https://github.com/XingangPan/SCNN> ⭐ 864 | 🐛 72 | 🌐 Lua | 📅 2026-01-16
 
@@ -294,4 +294,4 @@ If you have any suggestions about papers, feel free to mail me :)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
