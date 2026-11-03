@@ -503,7 +503,7 @@
                 "open_issues": 97,
                 "owner": "cfzd",
                 "repo": "Ultra-Fast-Lane-Detection",
-                "stars": 2069,
+                "stars": 2070,
                 "topics": [
                   "autonomous-driving",
                   "autonomous-vehicles",
@@ -1340,7 +1340,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T01:54:37.852Z",
+    "last_updated": "2026-11-03T03:44:16.568Z",
     "original_repository_info": {
       "archived": false,
       "description": "A paper list of lane detection.",
