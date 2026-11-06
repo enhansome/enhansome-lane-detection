@@ -36,7 +36,7 @@ Lane Detection
 
 [BEV-LaneDet: a Simple and Effective 3D Lane Detection Baseline](https://arxiv.org/abs/2210.06006)  [github](https://github.com/gigo-team/bev_lane_det) ⭐ 235 | 🐛 26 | 📅 2023-05-20  CVPR 2023
 
-[Anchor3DLane: Learning to Regress 3D Anchors for Monocular 3D Lane Detection](https://arxiv.org/abs/2301.02371)  [github](https://github.com/tusen-ai/Anchor3DLane) ⭐ 193 | 🐛 20 | 🌐 Python | 📅 2025-06-27  CVPR 2023
+[Anchor3DLane: Learning to Regress 3D Anchors for Monocular 3D Lane Detection](https://arxiv.org/abs/2301.02371)  [github](https://github.com/tusen-ai/Anchor3DLane) ⭐ 192 | 🐛 20 | 🌐 Python | 📅 2025-06-27  CVPR 2023
 
 [End to End Lane detection with One-to-Several Transformer](https://arxiv.org/abs/2305.00675)  [github](https://github.com/zkyseu/O2SFormer) ⭐ 46 | 🐛 1 | 🌐 Python | 📅 2024-02-28
 
@@ -138,7 +138,7 @@ Lane Detection
 
 [SUPER: A Novel Lane Detection System](https://arxiv.org/abs/2005.07277)
 
-[Ultra Fast Structure-aware Deep Lane Detection](https://arxiv.org/abs/2004.11757)  [github](https://github.com/cfzd/Ultra-Fast-Lane-Detection) ⭐ 2,069 | 🐛 97 | 🌐 Python | 📅 2022-12-14  ECCV 2020
+[Ultra Fast Structure-aware Deep Lane Detection](https://arxiv.org/abs/2004.11757)  [github](https://github.com/cfzd/Ultra-Fast-Lane-Detection) ⭐ 2,070 | 🐛 97 | 🌐 Python | 📅 2022-12-14  ECCV 2020
 
 [PolyLaneNet: Lane Estimation via Deep Polynomial Regression](https://github.com/lucastabelini/PolyLaneNet) ⭐ 316 | 🐛 2 | 🌐 Python | 📅 2021-05-31  [github](https://github.com/lucastabelini/PolyLaneNet) ⭐ 316 | 🐛 2 | 🌐 Python | 📅 2021-05-31
 
@@ -232,7 +232,7 @@ Lane Detection
 
 <https://github.com/wvangansbeke/LaneDetection_End2End> ⭐ 665 | 🐛 10 | 🌐 Python | 📅 2020-05-14
 
-<https://github.com/georgesung/advanced_lane_detection> ⭐ 559 | 🐛 14 | 🌐 Python | 📅 2020-12-12
+<https://github.com/georgesung/advanced_lane_detection> ⭐ 560 | 🐛 14 | 🌐 Python | 📅 2020-12-12
 
 <https://github.com/MaybeShewill-CV/lanenet-lane-detection> ⭐ 2,571 | 🐛 4 | 🌐 Python | 📅 2023-12-08
 
@@ -294,4 +294,4 @@ If you have any suggestions about papers, feel free to mail me :)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
