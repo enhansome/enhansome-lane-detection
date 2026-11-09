@@ -1188,7 +1188,7 @@
             "open_issues": 32,
             "owner": "TuSimple",
             "repo": "tusimple-benchmark",
-            "stars": 594,
+            "stars": 595,
             "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.287Z"
@@ -1340,7 +1340,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T01:53:31.936Z",
+    "last_updated": "2026-11-09T02:04:44.844Z",
     "original_repository_info": {
       "archived": false,
       "description": "A paper list of lane detection.",
