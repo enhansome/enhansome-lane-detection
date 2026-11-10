@@ -46,7 +46,7 @@
                 "open_issues": 18,
                 "owner": "JMoonr",
                 "repo": "LATR",
-                "stars": 244,
+                "stars": 245,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:23:03.287Z"
@@ -306,7 +306,7 @@
                 "open_issues": 156,
                 "owner": "hustvl",
                 "repo": "YOLOP",
-                "stars": 2257,
+                "stars": 2256,
                 "topics": [
                   "autonomous-driving",
                   "drivable-area-segmentation",
@@ -1340,7 +1340,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T02:04:44.844Z",
+    "last_updated": "2026-11-10T04:22:17.260Z",
     "original_repository_info": {
       "archived": false,
       "description": "A paper list of lane detection.",

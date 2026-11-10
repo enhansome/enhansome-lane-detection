@@ -28,7 +28,7 @@ Lane Detection
 
 [Recursive Video Lane Detection](https://arxiv.org/abs/2308.11106)  [github](https://github.com/dongkwonjin/RVLD) ⭐ 91 | 🐛 17 | 🌐 Python | 📅 2023-11-08  ICCV 2023
 
-[LATR: 3D Lane Detection from Monocular Images with Transformer](https://arxiv.org/abs/2308.04583)  [github](https://github.com/JMoonr/LATR) ⭐ 244 | 🐛 18 | 🌐 Python | 📅 2024-12-08  ICCV 2023
+[LATR: 3D Lane Detection from Monocular Images with Transformer](https://arxiv.org/abs/2308.04583)  [github](https://github.com/JMoonr/LATR) ⭐ 245 | 🐛 18 | 🌐 Python | 📅 2024-12-08  ICCV 2023
 
 [GroupLane: End-to-End 3D Lane Detection with Channel-wise Grouping](https://arxiv.org/abs/2307.09472)
 
@@ -88,7 +88,7 @@ Lane Detection
 
 [A Hybrid Spatial-temporal Sequence-to-one Neural Network Model for Lane Detection](https://arxiv.org/abs/2110.04079)
 
-[YOLOP: You Only Look Once for Panoptic Driving Perception](https://arxiv.org/abs/2108.11250)  [github](https://github.com/hustvl/YOLOP) ⭐ 2,257 | 🐛 156 | 🌐 Python | 📅 2023-10-20
+[YOLOP: You Only Look Once for Panoptic Driving Perception](https://arxiv.org/abs/2108.11250)  [github](https://github.com/hustvl/YOLOP) ⭐ 2,256 | 🐛 156 | 🌐 Python | 📅 2023-10-20
 
 [VIL-100: A New Dataset and A Baseline Model for Video Instance Lane Detection](https://arxiv.org/abs/2108.08482)  [github](https://github.com/yujun0-0/MMA-Net) ⭐ 104 | 🐛 2 | 🌐 Makefile | 📅 2024-02-01  [dataset](https://github.com/yujun0-0/MMA-Net) ⭐ 104 | 🐛 2 | 🌐 Makefile | 📅 2024-02-01  ICCV 2021
 
@@ -294,4 +294,4 @@ If you have any suggestions about papers, feel free to mail me :)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
