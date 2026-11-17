@@ -306,7 +306,7 @@
                 "open_issues": 156,
                 "owner": "hustvl",
                 "repo": "YOLOP",
-                "stars": 2256,
+                "stars": 2257,
                 "topics": [
                   "autonomous-driving",
                   "drivable-area-segmentation",
@@ -355,7 +355,7 @@
                 "open_issues": 17,
                 "owner": "lucastabelini",
                 "repo": "LaneATT",
-                "stars": 700,
+                "stars": 701,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -430,7 +430,7 @@
                 "open_issues": 17,
                 "owner": "lucastabelini",
                 "repo": "LaneATT",
-                "stars": 700,
+                "stars": 701,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -533,7 +533,7 @@
                 "open_issues": 2,
                 "owner": "lucastabelini",
                 "repo": "PolyLaneNet",
-                "stars": 316,
+                "stars": 317,
                 "topics": [
                   "deep-learning",
                   "lane-detection",
@@ -778,7 +778,7 @@
                 "open_issues": 4,
                 "owner": "MaybeShewill-CV",
                 "repo": "lanenet-lane-detection",
-                "stars": 2571,
+                "stars": 2570,
                 "topics": [
                   "deep-learning",
                   "instance-segmentation",
@@ -974,7 +974,7 @@
             "open_issues": 4,
             "owner": "MaybeShewill-CV",
             "repo": "lanenet-lane-detection",
-            "stars": 2571,
+            "stars": 2570,
             "topics": [
               "deep-learning",
               "instance-segmentation",
@@ -1004,7 +1004,7 @@
             "open_issues": 72,
             "owner": "XingangPan",
             "repo": "SCNN",
-            "stars": 864,
+            "stars": 863,
             "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.287Z"
@@ -1107,7 +1107,7 @@
             "open_issues": 5,
             "owner": "mvirgo",
             "repo": "MLND-Capstone",
-            "stars": 440,
+            "stars": 439,
             "topics": []
           },
           "first_seen": "2026-08-28T06:23:03.287Z"
@@ -1128,7 +1128,7 @@
             "open_issues": 1,
             "owner": "galenballew",
             "repo": "SDC-Lane-and-Vehicle-Detection-Tracking",
-            "stars": 247,
+            "stars": 246,
             "topics": [
               "computer-vision",
               "convolutional-neural-networks",
@@ -1340,7 +1340,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T02:25:04.643Z",
+    "last_updated": "2026-11-17T04:48:52.853Z",
     "original_repository_info": {
       "archived": false,
       "description": "A paper list of lane detection.",
@@ -1352,7 +1352,7 @@
       "open_issues": 18,
       "owner": "amusi",
       "repo": "awesome-lane-detection",
-      "stars": 3066,
+      "stars": 3065,
       "topics": [
         "lane-detection",
         "lane-lines-detection"
