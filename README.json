@@ -306,7 +306,7 @@
                 "open_issues": 156,
                 "owner": "hustvl",
                 "repo": "YOLOP",
-                "stars": 2258,
+                "stars": 2259,
                 "topics": [
                   "autonomous-driving",
                   "drivable-area-segmentation",
@@ -778,7 +778,7 @@
                 "open_issues": 4,
                 "owner": "MaybeShewill-CV",
                 "repo": "lanenet-lane-detection",
-                "stars": 2570,
+                "stars": 2569,
                 "topics": [
                   "deep-learning",
                   "instance-segmentation",
@@ -974,7 +974,7 @@
             "open_issues": 4,
             "owner": "MaybeShewill-CV",
             "repo": "lanenet-lane-detection",
-            "stars": 2570,
+            "stars": 2569,
             "topics": [
               "deep-learning",
               "instance-segmentation",
@@ -1340,7 +1340,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T03:32:59.861Z",
+    "last_updated": "2026-11-22T02:41:30.262Z",
     "original_repository_info": {
       "archived": false,
       "description": "A paper list of lane detection.",
