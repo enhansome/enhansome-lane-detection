@@ -186,7 +186,7 @@
                 "open_issues": 12,
                 "owner": "once-3dlanes",
                 "repo": "once_3dlanes_benchmark",
-                "stars": 114,
+                "stars": 115,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:23:03.287Z"
@@ -1340,7 +1340,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T03:14:02.896Z",
+    "last_updated": "2026-11-24T06:30:16.263Z",
     "original_repository_info": {
       "archived": false,
       "description": "A paper list of lane detection.",
